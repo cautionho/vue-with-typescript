@@ -1,0 +1,1610 @@
+[
+  {
+    "Key": "E速宝",
+    "Value": "80"
+  },
+  {
+    "Key": "Asendia_US",
+    "Value": "94"
+  },
+  {
+    "Key": "Australia Post_AU",
+    "Value": "95"
+  },
+  {
+    "Key": "Colissimo_DE",
+    "Value": "96"
+  },
+  {
+    "Key": "Colissimo_FR",
+    "Value": "97"
+  },
+  {
+    "Key": "Correos_ES",
+    "Value": "98"
+  },
+  {
+    "Key": "DB Schenker_FR",
+    "Value": "99"
+  },
+  {
+    "Key": "Deutsche Post_DE",
+    "Value": "100"
+  },
+  {
+    "Key": "Deutsche Post_FR",
+    "Value": "101"
+  },
+  {
+    "Key": "Deutsche Post_IT",
+    "Value": "102"
+  },
+  {
+    "Key": "Deutsche Post_PL",
+    "Value": "103"
+  },
+  {
+    "Key": "DHL_CZ",
+    "Value": "104"
+  },
+  {
+    "Key": "DHL_DE",
+    "Value": "105"
+  },
+  {
+    "Key": "DHL_ES",
+    "Value": "106"
+  },
+  {
+    "Key": "DHL_FR",
+    "Value": "107"
+  },
+  {
+    "Key": "DHL_IT",
+    "Value": "108"
+  },
+  {
+    "Key": "DHL_PL",
+    "Value": "109"
+  },
+  {
+    "Key": "DHL_UK",
+    "Value": "110"
+  },
+  {
+    "Key": "DHL_US",
+    "Value": "111"
+  },
+  {
+    "Key": "DHLeC-US",
+    "Value": "112"
+  },
+  {
+    "Key": "DPD_CZ",
+    "Value": "113"
+  },
+  {
+    "Key": "DPD_DE",
+    "Value": "114"
+  },
+  {
+    "Key": "DPD_ES",
+    "Value": "115"
+  },
+  {
+    "Key": "DPD_FR",
+    "Value": "116"
+  },
+  {
+    "Key": "DPD_IT",
+    "Value": "117"
+  },
+  {
+    "Key": "DPD_UK",
+    "Value": "118"
+  },
+  {
+    "Key": "DPEX_AU",
+    "Value": "119"
+  },
+  {
+    "Key": "Fastway Australia_AU",
+    "Value": "120"
+  },
+  {
+    "Key": "Fedex_US",
+    "Value": "121"
+  },
+  {
+    "Key": "GLS_CZ",
+    "Value": "122"
+  },
+  {
+    "Key": "GLS_DE",
+    "Value": "123"
+  },
+  {
+    "Key": "GLS_ES",
+    "Value": "124"
+  },
+  {
+    "Key": "GLS_FR",
+    "Value": "125"
+  },
+  {
+    "Key": "GLS_IT",
+    "Value": "126"
+  },
+  {
+    "Key": "GLS_UK",
+    "Value": "127"
+  },
+  {
+    "Key": "Hemes_UK",
+    "Value": "128"
+  },
+  {
+    "Key": "Hermes_DE",
+    "Value": "129"
+  },
+  {
+    "Key": "La Post_DE",
+    "Value": "130"
+  },
+  {
+    "Key": "La Post_FR",
+    "Value": "131"
+  },
+  {
+    "Key": "Poste Italiane_IT",
+    "Value": "132"
+  },
+  {
+    "Key": "Royal Mail_UK",
+    "Value": "133"
+  },
+  {
+    "Key": "UPS_CZ",
+    "Value": "134"
+  },
+  {
+    "Key": "UPS_DE",
+    "Value": "135"
+  },
+  {
+    "Key": "UPS_ES",
+    "Value": "136"
+  },
+  {
+    "Key": "UPS_FR",
+    "Value": "137"
+  },
+  {
+    "Key": "UPS_IT",
+    "Value": "138"
+  },
+  {
+    "Key": "UPS_UK",
+    "Value": "139"
+  },
+  {
+    "Key": "UPS_US",
+    "Value": "140"
+  },
+  {
+    "Key": "USPS_US",
+    "Value": "141"
+  },
+  {
+    "Key": "Yodel_UK",
+    "Value": "142"
+  },
+  {
+    "Key": "Vova线上-CNE-全球优先",
+    "Value": "147"
+  },
+  {
+    "Key": "Vova线上-CNE-全球特惠",
+    "Value": "148"
+  },
+  {
+    "Key": "Vova线上-CNE-全球快捷",
+    "Value": "149"
+  },
+  {
+    "Key": "Vova线上-CNE-全球经济",
+    "Value": "150"
+  },
+  {
+    "Key": "Vova线上-CNE-全球速达",
+    "Value": "151"
+  },
+  {
+    "Key": "Vova线上-CNE-华东欧电",
+    "Value": "152"
+  },
+  {
+    "Key": "Vova线上-CNE-全球通挂号",
+    "Value": "153"
+  },
+  {
+    "Key": "Vova线上-CNE-全球通平邮",
+    "Value": "154"
+  },
+  {
+    "Key": "Vova线上-CNE-RM平邮直航",
+    "Value": "155"
+  },
+  {
+    "Key": "Vova线上-CNE-CH挂号小包",
+    "Value": "156"
+  },
+  {
+    "Key": "Vova线上-CNE-CH平邮小包",
+    "Value": "157"
+  },
+  {
+    "Key": "Vova线上-CNE-AT挂号小包",
+    "Value": "158"
+  },
+  {
+    "Key": "Vova线上-CNE-AT平邮小包",
+    "Value": "159"
+  },
+  {
+    "Key": "Vova线上-CNE-LU挂号小包",
+    "Value": "160"
+  },
+  {
+    "Key": "Vova线上-CNE-EE挂号小包",
+    "Value": "161"
+  },
+  {
+    "Key": "Vova线上-CNE-KR国际E邮宝",
+    "Value": "162"
+  },
+  {
+    "Key": "Vova线上-CNE-FR平邮小包",
+    "Value": "163"
+  },
+  {
+    "Key": "Vova线上-CNE-SH国际E邮宝",
+    "Value": "164"
+  },
+  {
+    "Key": "Vova线上-CNE-浙江国际E邮宝",
+    "Value": "165"
+  },
+  {
+    "Key": "Vova线上-CNE-EMS上海中转",
+    "Value": "166"
+  },
+  {
+    "Key": "Vova线上-CNE-上海挂号小包",
+    "Value": "167"
+  },
+  {
+    "Key": "Vova线上-CNE-上海平邮小包",
+    "Value": "168"
+  },
+  {
+    "Key": "Vova线上-CNE-TNT上海口岸",
+    "Value": "169"
+  },
+  {
+    "Key": "Vova线上-CNE-香港FEDEX经济",
+    "Value": "170"
+  },
+  {
+    "Key": "Vova线上-CNE-DHL香港中转",
+    "Value": "171"
+  },
+  {
+    "Key": "Vova线上-CNE-江苏国际E邮宝",
+    "Value": "172"
+  },
+  {
+    "Key": "Vova线上-TopYou-经济小包",
+    "Value": "173"
+  },
+  {
+    "Key": "Vova线上-万邦-挂号专线包裹",
+    "Value": "174"
+  },
+  {
+    "Key": "Vova线上-万邦-平邮专线包裹",
+    "Value": "175"
+  },
+  {
+    "Key": "Vova线上-万邦-邮政挂号小包",
+    "Value": "176"
+  },
+  {
+    "Key": "Vova线上-万邦-邮政平邮小包",
+    "Value": "177"
+  },
+  {
+    "Key": "Vova线上-安骏-电商专线特货",
+    "Value": "178"
+  },
+  {
+    "Key": "Vova线上-安骏-经济特货",
+    "Value": "179"
+  },
+  {
+    "Key": "Vova线上-安骏-小包挂号普货",
+    "Value": "180"
+  },
+  {
+    "Key": "Vova线上-安骏-欧邮通专线平邮",
+    "Value": "181"
+  },
+  {
+    "Key": "Vova线上-4PX-华南小包挂号",
+    "Value": "183"
+  },
+  {
+    "Key": "Vova线上-4PX-华南优先跟踪小包",
+    "Value": "184"
+  },
+  {
+    "Key": "Vova线上-4PX-华南跟踪小包",
+    "Value": "185"
+  },
+  {
+    "Key": "Vova线上-4PX-华南澳洲跟踪小包",
+    "Value": "186"
+  },
+  {
+    "Key": "Vova线上-4PX-广州E邮宝",
+    "Value": "187"
+  },
+  {
+    "Key": "Vova线上-4PX-S小包平邮+",
+    "Value": "190"
+  },
+  {
+    "Key": "Vova线上-4PX-S小包挂号",
+    "Value": "191"
+  },
+  {
+    "Key": "Vova线上-4PX-新加坡EMS",
+    "Value": "192"
+  },
+  {
+    "Key": "Vova线上-4PX-H小包挂号",
+    "Value": "194"
+  },
+  {
+    "Key": "Vova线上-4PX-西班牙联邮通平邮",
+    "Value": "199"
+  },
+  {
+    "Key": "Vova线上-4PX-西班牙联邮通挂号",
+    "Value": "200"
+  },
+  {
+    "Key": "Vova线上-4PX-澳洲联邮通LARGE LETTER平邮",
+    "Value": "201"
+  },
+  {
+    "Key": "Vova线上-4PX-澳洲联邮通挂号",
+    "Value": "202"
+  },
+  {
+    "Key": "Vova线上-4PX-联邮通LARGE LETTER平邮经济",
+    "Value": "203"
+  },
+  {
+    "Key": "Vova线上-4PX-联邮通挂号实惠区",
+    "Value": "204"
+  },
+  {
+    "Key": "Vova线上-4PX-联邮通挂号TR48标准服务",
+    "Value": "205"
+  },
+  {
+    "Key": "Vova线上-4PX-联邮通挂号TR48PLUS",
+    "Value": "206"
+  },
+  {
+    "Key": "Vova线上-4PX-俄罗斯联邮通平邮",
+    "Value": "207"
+  },
+  {
+    "Key": "Vova线上-4PX-俄罗斯联邮通挂号",
+    "Value": "208"
+  },
+  {
+    "Key": "Vova线上-4PX-泛欧平邮",
+    "Value": "209"
+  },
+  {
+    "Key": "Vova线上-4PX-泛欧挂号",
+    "Value": "210"
+  },
+  {
+    "Key": "Vova线上-4PX-联邮通平邮",
+    "Value": "211"
+  },
+  {
+    "Key": "Vova线上-4PX-联邮通挂号",
+    "Value": "212"
+  },
+  {
+    "Key": "Vova线上-4PX-联邮通法国专线",
+    "Value": "213"
+  },
+  {
+    "Key": "Vova线上-4PX-联邮通瑞典专线",
+    "Value": "214"
+  },
+  {
+    "Key": "Vova线上-4PX-联邮通意大利专线",
+    "Value": "215"
+  },
+  {
+    "Key": "Vova线上-4PX-联邮通丹麦专线",
+    "Value": "216"
+  },
+  {
+    "Key": "Vova线上-4PX-联邮通比利时专线",
+    "Value": "217"
+  },
+  {
+    "Key": "Vova线上-4PX-美国联邮通挂号",
+    "Value": "218"
+  },
+  {
+    "Key": "Vova线上-捷买送-土耳其邮政平邮",
+    "Value": "230"
+  },
+  {
+    "Key": "Vova线上-捷买送-经济小包",
+    "Value": "231"
+  },
+  {
+    "Key": "Vova线上-捷买送-澳洲专线特快",
+    "Value": "232"
+  },
+  {
+    "Key": "Vova线上-捷买送-荷兰邮政挂号(普货)",
+    "Value": "233"
+  },
+  {
+    "Key": "Vova线上-捷买送-荷兰邮政平邮(普货)",
+    "Value": "234"
+  },
+  {
+    "Key": "Vova线上-捷买送-外电荷兰邮政挂号",
+    "Value": "235"
+  },
+  {
+    "Key": "Vova线上-捷买送-外电荷兰邮政平邮",
+    "Value": "236"
+  },
+  {
+    "Key": "Vova线上-捷买送-DHL挂号普货",
+    "Value": "237"
+  },
+  {
+    "Key": "Vova线上-捷买送-DHL挂号带电",
+    "Value": "238"
+  },
+  {
+    "Key": "Vova线上-捷买送-DHL挂号敏感",
+    "Value": "239"
+  },
+  {
+    "Key": "Vova线上-捷买送-DHL平邮普货",
+    "Value": "240"
+  },
+  {
+    "Key": "Vova线上-捷买送-DHL平邮带电",
+    "Value": "241"
+  },
+  {
+    "Key": "Vova线上-捷买送-DHL平邮敏感",
+    "Value": "242"
+  },
+  {
+    "Key": "Vova线上-顺友-经济小包(普货)",
+    "Value": "243"
+  },
+  {
+    "Key": "Vova线上-顺友-标准小包(普货)",
+    "Value": "244"
+  },
+  {
+    "Key": "Vova线上-顺友-经济小包(特货)",
+    "Value": "245"
+  },
+  {
+    "Key": "Vova线上-顺友-标准小包(特货)",
+    "Value": "246"
+  },
+  {
+    "Key": "Vova线上-顺友-顺速宝专线",
+    "Value": "247"
+  },
+  {
+    "Key": "Vova线上-UBI-中国至澳洲全程查件服务",
+    "Value": "249"
+  },
+  {
+    "Key": "Vova线上-UBI-中国至澳洲半程查件服务",
+    "Value": "250"
+  },
+  {
+    "Key": "Vova线上-UBI-加拿大快捷专线",
+    "Value": "251"
+  },
+  {
+    "Key": "Vova线上-UBI-中国至新西兰半程查件服务",
+    "Value": "252"
+  },
+  {
+    "Key": "Vova线上-UBI-中国至新西兰全程查件服务",
+    "Value": "253"
+  },
+  {
+    "Key": "Vova线上-UBI-墨西哥专线",
+    "Value": "254"
+  },
+  {
+    "Key": "Vova线上-UBI-欧盟小包(半程查件)",
+    "Value": "255"
+  },
+  {
+    "Key": "Vova线上-UBI-欧盟全程",
+    "Value": "256"
+  },
+  {
+    "Key": "Vova线上-UBI-英国专线（商业清关）",
+    "Value": "257"
+  },
+  {
+    "Key": "Vova线上-UBI-新加坡马来西亚专线",
+    "Value": "258"
+  },
+  {
+    "Key": "Vova线上-UBI-俄罗斯专线",
+    "Value": "259"
+  },
+  {
+    "Key": "Vova线上-UBI-西班牙专线",
+    "Value": "260"
+  },
+  {
+    "Key": "Vova线上-UBI-西班牙专线半程",
+    "Value": "261"
+  },
+  {
+    "Key": "Vova线上-UBI-美国专线",
+    "Value": "262"
+  },
+  {
+    "Key": "Vova线上-出口易-专线挂号",
+    "Value": "263"
+  },
+  {
+    "Key": "Vova线上-出口易-英国经济快捷线",
+    "Value": "264"
+  },
+  {
+    "Key": "Vova线上-出口易-专线平邮",
+    "Value": "265"
+  },
+  {
+    "Key": "Vova线上-出口易-easy邮挂号",
+    "Value": "267"
+  },
+  {
+    "Key": "Vova线上-出口易-本地中邮小包挂号",
+    "Value": "271"
+  },
+  {
+    "Key": "Vova线上-出口易-本地中邮小包平邮",
+    "Value": "272"
+  },
+  {
+    "Key": "Vova线上-出口易-本地E邮宝",
+    "Value": "273"
+  },
+  {
+    "Key": "Vova线上-出口易-省外E邮宝",
+    "Value": "274"
+  },
+  {
+    "Key": "Vova线上-出口易-国际E特快",
+    "Value": "275"
+  },
+  {
+    "Key": "Vova线上-出口易-大陆DHL",
+    "Value": "277"
+  },
+  {
+    "Key": "Vova线上-国洋运通-特快专线小包（平邮）",
+    "Value": "278"
+  },
+  {
+    "Key": "Vova线上-东擎-巴西专线",
+    "Value": "279"
+  },
+  {
+    "Key": "Vova线上-飞特-标准挂号",
+    "Value": "280"
+  },
+  {
+    "Key": "Vova线上-飞特-标准平邮",
+    "Value": "281"
+  },
+  {
+    "Key": "Vova线上-飞特-CTAM小包挂号",
+    "Value": "282"
+  },
+  {
+    "Key": "Vova线上-飞特-CTAM小包平邮（特货）",
+    "Value": "283"
+  },
+  {
+    "Key": "Vova线上-飞特-CTAM小包平邮(普货)",
+    "Value": "284"
+  },
+  {
+    "Key": "Vova线上-飞特-华南小包挂号",
+    "Value": "285"
+  },
+  {
+    "Key": "Vova线上-飞特-华南小包平邮",
+    "Value": "286"
+  },
+  {
+    "Key": "Vova线上-飞特-中国DHL",
+    "Value": "287"
+  },
+  {
+    "Key": "Vova线上-飞特-香港DHL",
+    "Value": "288"
+  },
+  {
+    "Key": "Vova线上-云途-英国专线标准",
+    "Value": "289"
+  },
+  {
+    "Key": "Vova线上-云途-英国专线挂号特惠",
+    "Value": "290"
+  },
+  {
+    "Key": "Vova线上-云途-德国专线挂号",
+    "Value": "291"
+  },
+  {
+    "Key": "Vova线上-云途-德国专线挂号特惠",
+    "Value": "292"
+  },
+  {
+    "Key": "Vova线上-云途-意大利专线挂号",
+    "Value": "293"
+  },
+  {
+    "Key": "Vova线上-云途-法国专线挂号",
+    "Value": "294"
+  },
+  {
+    "Key": "Vova线上-云途-法国专线挂号（签名）",
+    "Value": "295"
+  },
+  {
+    "Key": "Vova线上-云途-法国专线挂号特惠",
+    "Value": "296"
+  },
+  {
+    "Key": "Vova线上-云途-西班牙专线挂号",
+    "Value": "297"
+  },
+  {
+    "Key": "Vova线上-云途-奥地利专线",
+    "Value": "298"
+  },
+  {
+    "Key": "Vova线上-云途-荷比卢专线",
+    "Value": "299"
+  },
+  {
+    "Key": "Vova线上-云途-丹麦专线挂号",
+    "Value": "300"
+  },
+  {
+    "Key": "Vova线上-云途-中欧专线挂号",
+    "Value": "301"
+  },
+  {
+    "Key": "Vova线上-云途-中美专线(特惠)",
+    "Value": "302"
+  },
+  {
+    "Key": "Vova线上-云途-中澳专线",
+    "Value": "303"
+  },
+  {
+    "Key": "Vova线上-云途-中欧特快平邮",
+    "Value": "304"
+  },
+  {
+    "Key": "Vova线上-云途-英国专线平邮",
+    "Value": "305"
+  },
+  {
+    "Key": "Vova线上-云途-德国专线平邮",
+    "Value": "306"
+  },
+  {
+    "Key": "Vova线上-云途-意大利专线平邮",
+    "Value": "307"
+  },
+  {
+    "Key": "Vova线上-云途-西班牙专线平邮",
+    "Value": "308"
+  },
+  {
+    "Key": "Vova线上-云途-中欧专线平邮",
+    "Value": "309"
+  },
+  {
+    "Key": "Vova线上-云途-巴西专线",
+    "Value": "310"
+  },
+  {
+    "Key": "Vova线上-云途-西班牙专线平邮特惠",
+    "Value": "311"
+  },
+  {
+    "Key": "Vova线上-云途-B小包平邮+",
+    "Value": "313"
+  },
+  {
+    "Key": "Vova线上-云途-中美专线(标快)",
+    "Value": "314"
+  },
+  {
+    "Key": "Vova线上-云途-华南特惠挂号",
+    "Value": "315"
+  },
+  {
+    "Key": "Vova线上-云途-华南特惠平邮",
+    "Value": "316"
+  },
+  {
+    "Key": "Vova线上-云途-华南快速小包挂号",
+    "Value": "317"
+  },
+  {
+    "Key": "Vova线上-云途-华南快速小包平邮",
+    "Value": "318"
+  },
+  {
+    "Key": "Vova线上-云途-中邮福州平邮",
+    "Value": "319"
+  },
+  {
+    "Key": "Vova线上-云途-中邮福州挂号",
+    "Value": "320"
+  },
+  {
+    "Key": "Vova线上-云途-香港小包挂号",
+    "Value": "321"
+  },
+  {
+    "Key": "Vova线上-云途-省内EUB",
+    "Value": "323"
+  },
+  {
+    "Key": "Vova线上-云途-福州EUB",
+    "Value": "324"
+  },
+  {
+    "Key": "Vova线上-云途-HK DHL eCommerce挂号",
+    "Value": "326"
+  },
+  {
+    "Key": "Vova线上-云途-HK DHL eCommerce平邮",
+    "Value": "327"
+  },
+  {
+    "Key": "Vova线上-云途-DHL eCommerce 12国挂号",
+    "Value": "328"
+  },
+  {
+    "Key": "Vova线上-云途-DHL eCommerce 12国平邮",
+    "Value": "329"
+  },
+  {
+    "Key": "Vova线上-云途-墨西哥快邮小包",
+    "Value": "330"
+  },
+  {
+    "Key": "Vova线上-云途-快速小包平邮",
+    "Value": "333"
+  },
+  {
+    "Key": "Vova线上-云途-DHL促销全球快递",
+    "Value": "334"
+  },
+  {
+    "Key": "Vova线上-云途-加拿大专线",
+    "Value": "335"
+  },
+  {
+    "Key": "Vova线上-燕文-航空经济小包-特货",
+    "Value": "336"
+  },
+  {
+    "Key": "Vova线上-燕文-航空经济小包-普货",
+    "Value": "337"
+  },
+  {
+    "Key": "Vova线上-燕文-燕邮宝平邮-特货",
+    "Value": "338"
+  },
+  {
+    "Key": "Vova线上-燕文-专线平邮小包-普货",
+    "Value": "339"
+  },
+  {
+    "Key": "Vova线上-燕文-专线平邮小包-特货",
+    "Value": "340"
+  },
+  {
+    "Key": "Vova线上-燕文-航空挂号小包-特货",
+    "Value": "341"
+  },
+  {
+    "Key": "Vova线上-燕文-航空挂号小包-普货",
+    "Value": "342"
+  },
+  {
+    "Key": "Vova线上-燕文-燕邮宝挂号-特货",
+    "Value": "343"
+  },
+  {
+    "Key": "Vova线上-燕文-航空易派小包-特货",
+    "Value": "344"
+  },
+  {
+    "Key": "Vova线上-燕文-航空易派小包-普货",
+    "Value": "345"
+  },
+  {
+    "Key": "Vova线上-燕文-专线追踪小包-普货",
+    "Value": "346"
+  },
+  {
+    "Key": "Vova线上-燕文-专线追踪小包-特货",
+    "Value": "347"
+  },
+  {
+    "Key": "Vova线上-燕文-标准专线快递-普货",
+    "Value": "348"
+  },
+  {
+    "Key": "Vova线上-燕文-标准专线快递-特货",
+    "Value": "349"
+  },
+  {
+    "Key": "Vova线上-燕文-邮政特快专递-特货",
+    "Value": "350"
+  },
+  {
+    "Key": "Vova线上-燕文-特惠专线快递-普货",
+    "Value": "351"
+  },
+  {
+    "Key": "Vova线上-燕文-特惠专线快递-特货",
+    "Value": "352"
+  },
+  {
+    "Key": "Vova线上-燕文-燕邮宝平邮-普货",
+    "Value": "360"
+  },
+  {
+    "Key": "Vova线上-燕文-邮政特快专递-普货",
+    "Value": "361"
+  },
+  {
+    "Key": "Vova线上-燕文-C挂号小包",
+    "Value": "376"
+  },
+  {
+    "Key": "Vova线上-燕文-C平邮小包",
+    "Value": "377"
+  },
+  {
+    "Key": "Vova线上-燕文-C优先小包",
+    "Value": "378"
+  },
+  {
+    "Key": "Vova线上-中国邮政挂号小包",
+    "Value": "379"
+  },
+  {
+    "Key": "Vova线上-中国邮政平常小包",
+    "Value": "380"
+  },
+  {
+    "Key": "Vova线上-E邮宝",
+    "Value": "381"
+  },
+  {
+    "Key": "Vova线上-E特快",
+    "Value": "382"
+  },
+  {
+    "Key": "Vova线上-国际EMS",
+    "Value": "383"
+  },
+  {
+    "Key": "UPS_PL",
+    "Value": "384"
+  },
+  {
+    "Key": "Vova线上-Equick-中欧专线",
+    "Value": "385"
+  },
+  {
+    "Key": "Vova线上-Equick-中美专线",
+    "Value": "386"
+  },
+  {
+    "Key": "Vova线上-Equick-中美专线（加急）",
+    "Value": "387"
+  },
+  {
+    "Key": "Vova线上-Equick-澳大利亚专线",
+    "Value": "388"
+  },
+  {
+    "Key": "Vova线上-Equick-新西兰专线",
+    "Value": "389"
+  },
+  {
+    "Key": "Vova线上-Equick-加拿大专线",
+    "Value": "390"
+  },
+  {
+    "Key": "Vova线上-Equick-欧洲专线促销价",
+    "Value": "391"
+  },
+  {
+    "Key": "Vova线上-Equick-澳大利亚专线特惠线",
+    "Value": "392"
+  },
+  {
+    "Key": "Vova线上-Equick-加拿大专线特惠线",
+    "Value": "393"
+  },
+  {
+    "Key": "Vova线上-Equick-英国快速专线小包裹",
+    "Value": "394"
+  },
+  {
+    "Key": "Vova线上-Equick-澳大利亚快速专线小包裹",
+    "Value": "395"
+  },
+  {
+    "Key": "Vova线上-Equick-德国快速专线小包裹",
+    "Value": "396"
+  },
+  {
+    "Key": "Vova线上-Equick-新西兰快速专线小包裹",
+    "Value": "397"
+  },
+  {
+    "Key": "Vova线上-Equick-美国快速专线小包",
+    "Value": "398"
+  },
+  {
+    "Key": "Vova线上-Equick-法国快速小包",
+    "Value": "399"
+  },
+  {
+    "Key": "Vova线上-Equick-意大利快速专线小包",
+    "Value": "400"
+  },
+  {
+    "Key": "Vova线上-Equick-加拿大快速专线小包裹",
+    "Value": "401"
+  },
+  {
+    "Key": "Vova线上-Equick-西班牙快速专线小包",
+    "Value": "402"
+  },
+  {
+    "Key": "Vova线上-Equick-西班牙快速专线半查小包裹",
+    "Value": "403"
+  },
+  {
+    "Key": "Vova线上-Equick-欧洲邮局快速小包(挂号)",
+    "Value": "404"
+  },
+  {
+    "Key": "Vova线上-Equick-欧盟半查询轻小包",
+    "Value": "405"
+  },
+  {
+    "Key": "Vova线上-Equick-半查询快速小包",
+    "Value": "406"
+  },
+  {
+    "Key": "Vova线上-Equick-精选十国邮局半查小包",
+    "Value": "407"
+  },
+  {
+    "Key": "Vova线上-Equick-爱沙尼亚邮局小包半查",
+    "Value": "408"
+  },
+  {
+    "Key": "Vova线上-京华达-特邮小包-普货",
+    "Value": "409"
+  },
+  {
+    "Key": "Vova线上-京华达-中美专线-快速",
+    "Value": "410"
+  },
+  {
+    "Key": "Vova线上-京华达-中美专线-带电",
+    "Value": "411"
+  },
+  {
+    "Key": "Vova线上-京华达-中美专线-海派",
+    "Value": "412"
+  },
+  {
+    "Key": "Vova线上-京华达-特邮小包-特货",
+    "Value": "413"
+  },
+  {
+    "Key": "Vova线上-顺丰-国际小包挂号",
+    "Value": "414"
+  },
+  {
+    "Key": "Vova线上-顺丰-国际小包平邮",
+    "Value": "415"
+  },
+  {
+    "Key": "Vova线上-顺丰-经济小包挂号",
+    "Value": "416"
+  },
+  {
+    "Key": "Vova线上-顺丰-经济小包平邮",
+    "Value": "417"
+  },
+  {
+    "Key": "Vova线上-顺丰-国际专线小包-乌克兰",
+    "Value": "418"
+  },
+  {
+    "Key": "Vova线上-顺丰-精品小包",
+    "Value": "419"
+  },
+  {
+    "Key": "Vova线上-顺丰-国际卢邮小包挂号",
+    "Value": "420"
+  },
+  {
+    "Key": "Vova线上-安骏-经济普货",
+    "Value": "421"
+  },
+  {
+    "Key": "Vova线上-三态-墨西哥专线",
+    "Value": "422"
+  },
+  {
+    "Key": "Vova线上-三态-韩国专线",
+    "Value": "423"
+  },
+  {
+    "Key": "Vova线上-三态-美国专线（普货）",
+    "Value": "424"
+  },
+  {
+    "Key": "Vova线上-三态-英国专线",
+    "Value": "425"
+  },
+  {
+    "Key": "Vova线上-三态-英国专线（经济）",
+    "Value": "426"
+  },
+  {
+    "Key": "Vova线上-三态-英国专线（轻包）",
+    "Value": "427"
+  },
+  {
+    "Key": "Vova线上-三态-法国专线",
+    "Value": "428"
+  },
+  {
+    "Key": "Vova线上-三态-德国专线",
+    "Value": "429"
+  },
+  {
+    "Key": "Vova线上-三态-德国专线（特惠）",
+    "Value": "430"
+  },
+  {
+    "Key": "Vova线上-三态-西班牙专线",
+    "Value": "431"
+  },
+  {
+    "Key": "Vova线上-三态-加拿大专线",
+    "Value": "432"
+  },
+  {
+    "Key": "Vova线上-三态-澳洲专线",
+    "Value": "433"
+  },
+  {
+    "Key": "Vova线上-三态-新加坡专线",
+    "Value": "434"
+  },
+  {
+    "Key": "Vova线上-三态-巴西专线",
+    "Value": "435"
+  },
+  {
+    "Key": "Vova线上-三态-中欧英国线",
+    "Value": "436"
+  },
+  {
+    "Key": "Vova线上-三态-中欧荷兰线",
+    "Value": "437"
+  },
+  {
+    "Key": "Vova线上-三态-卢森堡专线",
+    "Value": "438"
+  },
+  {
+    "Key": "Vova线上-三态-快邮德国平邮",
+    "Value": "439"
+  },
+  {
+    "Key": "Vova线上-三态-快邮德国挂号",
+    "Value": "440"
+  },
+  {
+    "Key": "Vova线上-三态-快邮意大利平邮",
+    "Value": "441"
+  },
+  {
+    "Key": "Vova线上-三态-快邮意大利挂号",
+    "Value": "442"
+  },
+  {
+    "Key": "Vova线上-三态-快邮西班牙平邮",
+    "Value": "443"
+  },
+  {
+    "Key": "Vova线上-三态-快邮西班牙挂号",
+    "Value": "444"
+  },
+  {
+    "Key": "Vova线上-三态-快邮法国平邮",
+    "Value": "445"
+  },
+  {
+    "Key": "Vova线上-三态-快邮英国平邮",
+    "Value": "446"
+  },
+  {
+    "Key": "Vova线上-三态-快邮二级平邮",
+    "Value": "447"
+  },
+  {
+    "Key": "Vova线上-三态-快邮二级挂号",
+    "Value": "448"
+  },
+  {
+    "Key": "Vova线上-三态-快邮三级挂号",
+    "Value": "449"
+  },
+  {
+    "Key": "Vova线上-三态-易邮宝",
+    "Value": "450"
+  },
+  {
+    "Key": "Vova线上-三态-中邮小包平邮",
+    "Value": "451"
+  },
+  {
+    "Key": "Vova线上-三态-中邮小包挂号",
+    "Value": "452"
+  },
+  {
+    "Key": "Vova线上-三态-华南快邮平邮",
+    "Value": "453"
+  },
+  {
+    "Key": "Vova线上-三态-德国邮政平邮",
+    "Value": "454"
+  },
+  {
+    "Key": "Vova线上-三态-德国邮政挂号",
+    "Value": "455"
+  },
+  {
+    "Key": "Vova线上-三态-香港邮政平邮",
+    "Value": "456"
+  },
+  {
+    "Key": "Vova线上-三态-瑞士邮政平邮",
+    "Value": "457"
+  },
+  {
+    "Key": "Vova线上-三态-瑞士邮政挂号",
+    "Value": "458"
+  },
+  {
+    "Key": "Vova线上-三态-经济小包平邮",
+    "Value": "459"
+  },
+  {
+    "Key": "Vova线上-三态-东南邮政平邮",
+    "Value": "460"
+  },
+  {
+    "Key": "Vova线上-三态-东南邮政挂号",
+    "Value": "461"
+  },
+  {
+    "Key": "Vova线上-先达-爱邮挂号",
+    "Value": "462"
+  },
+  {
+    "Key": "Vova线上-先达-爱沙尼亚平邮小包",
+    "Value": "463"
+  },
+  {
+    "Key": "Vova线上-先达-爱邮特快",
+    "Value": "464"
+  },
+  {
+    "Key": "Vova线上-先达-土耳其专线",
+    "Value": "465"
+  },
+  {
+    "Key": "Vova线上-先达-卢森堡挂号小包",
+    "Value": "466"
+  },
+  {
+    "Key": "Vova线上-先达-美国专线",
+    "Value": "468"
+  },
+  {
+    "Key": "Vova线上-先达-奥地利邮政平邮小包",
+    "Value": "469"
+  },
+  {
+    "Key": "Vova线上-先达-奥地利邮政挂号小包",
+    "Value": "470"
+  },
+  {
+    "Key": "Vova线上-先达-乌克兰专线特惠",
+    "Value": "471"
+  },
+  {
+    "Key": "Vova线上-捷买送-法国专线",
+    "Value": "472"
+  },
+  {
+    "Key": "Vova线上-捷买送-德国专线",
+    "Value": "473"
+  },
+  {
+    "Key": "Vova线上-捷买送-美国专线（华南）",
+    "Value": "474"
+  },
+  {
+    "Key": "Vova线上-捷买送-英国专线",
+    "Value": "475"
+  },
+  {
+    "Key": "Vova线上-TopYou-MY小包挂号",
+    "Value": "476"
+  },
+  {
+    "Key": "Vova线上-顺丰-南美小包挂号",
+    "Value": "477"
+  },
+  {
+    "Key": "Vova线上-Equick-EQ精选十国邮局小包",
+    "Value": "478"
+  },
+  {
+    "Key": "Vova线上-Equick-爱沙尼亚邮局挂号小包",
+    "Value": "479"
+  },
+  {
+    "Key": "Vova线上-飞特-上海EUB",
+    "Value": "480"
+  },
+  {
+    "Key": "Vova线上-飞特-俄罗斯EUB",
+    "Value": "481"
+  },
+  {
+    "Key": "Vova线上-飞特-宁波EUB",
+    "Value": "482"
+  },
+  {
+    "Key": "Vova线上-飞特-广州EUB",
+    "Value": "483"
+  },
+  {
+    "Key": "Vova线上-飞特-杭州EUB",
+    "Value": "484"
+  },
+  {
+    "Key": "Vova线上-万邦-轻薄平邮专线",
+    "Value": "485"
+  },
+  {
+    "Key": "Vova线上-万邦-国际EUB深圳",
+    "Value": "486"
+  },
+  {
+    "Key": "Vova线上-万邦-国际EUB成都",
+    "Value": "487"
+  },
+  {
+    "Key": "Vova线上-安骏-DHL eCommerce平邮",
+    "Value": "488"
+  },
+  {
+    "Key": "Vova线上-安骏-DHL eCommerce挂号",
+    "Value": "489"
+  },
+  {
+    "Key": "Vova线上-安骏-土耳其小包挂号",
+    "Value": "490"
+  },
+  {
+    "Key": "Vova线上-安骏-土耳其平邮",
+    "Value": "491"
+  },
+  {
+    "Key": "Vova线上-安骏-比利时小包挂号",
+    "Value": "492"
+  },
+  {
+    "Key": "Vova线上-安骏-比利时平邮",
+    "Value": "493"
+  },
+  {
+    "Key": "Vova线上-圆通-香港专线",
+    "Value": "494"
+  },
+  {
+    "Key": "Vova线上-圆通-台湾宅配",
+    "Value": "495"
+  },
+  {
+    "Key": "Vova线上-圆通-台湾宅配(特货)",
+    "Value": "496"
+  },
+  {
+    "Key": "Vova线上-圆通-斯邮小包",
+    "Value": "497"
+  },
+  {
+    "Key": "Vova线上-圆通-比邮平邮",
+    "Value": "498"
+  },
+  {
+    "Key": "Vova线上-圆通-比邮挂号",
+    "Value": "499"
+  },
+  {
+    "Key": "Vova线上-圆通-美国小包",
+    "Value": "500"
+  },
+  {
+    "Key": "Vova线上-东擎-俄罗斯专线（铁路）",
+    "Value": "503"
+  },
+  {
+    "Key": "Vova线上-递四方-联邮通波兰标准挂号-带电",
+    "Value": "505"
+  },
+  {
+    "Key": "Vova线上-递四方-联邮通波兰标准挂号-普货",
+    "Value": "506"
+  },
+  {
+    "Key": "Vova线上-出口易-俄罗斯专线",
+    "Value": "507"
+  },
+  {
+    "Key": "Vova线上-出口易-大陆E邮宝",
+    "Value": "508"
+  },
+  {
+    "Key": "Vova线上-出口易-大陆中邮小包挂号",
+    "Value": "509"
+  },
+  {
+    "Key": "Vova线上-出口易-美国特惠专线",
+    "Value": "510"
+  },
+  {
+    "Key": "Vova线上-出口易-美国特惠专线平邮",
+    "Value": "511"
+  },
+  {
+    "Key": "Vova线上-出口易-美国超级专线",
+    "Value": "512"
+  },
+  {
+    "Key": "Vova线上-安骏-东莞平邮",
+    "Value": "513"
+  },
+  {
+    "Key": "Vova线上-安骏-东莞挂号",
+    "Value": "514"
+  },
+  {
+    "Key": "Vova线上-安骏-华南平邮",
+    "Value": "515"
+  },
+  {
+    "Key": "Vova线上-安骏-华南挂号",
+    "Value": "516"
+  },
+  {
+    "Key": "Vova线上-安骏-广州E邮宝",
+    "Value": "517"
+  },
+  {
+    "Key": "Vova线上-安骏-德国专线",
+    "Value": "518"
+  },
+  {
+    "Key": "Vova线上-安骏-意大利专线",
+    "Value": "519"
+  },
+  {
+    "Key": "Vova线上-安骏-武汉E邮宝",
+    "Value": "520"
+  },
+  {
+    "Key": "Vova线上-安骏-法国专线",
+    "Value": "521"
+  },
+  {
+    "Key": "Vova线上-安骏-深圳E邮宝",
+    "Value": "522"
+  },
+  {
+    "Key": "Vova线上-安骏-电商专线普货",
+    "Value": "523"
+  },
+  {
+    "Key": "Vova线上-安骏-英国专线",
+    "Value": "524"
+  },
+  {
+    "Key": "Vova线上-安骏-西班牙专线",
+    "Value": "525"
+  },
+  {
+    "Key": "DPD_PL",
+    "Value": "538"
+  },
+  {
+    "Key": "Vova线上-飞特-墨西哥专线",
+    "Value": "539"
+  },
+  {
+    "Key": "Vova线上-集运专线-燕文揽收",
+    "Value": "540"
+  },
+  {
+    "Key": "Vova线上-集运专线-商家自寄",
+    "Value": "542"
+  },
+  {
+    "Key": "Vova线上-集运专线-顺友揽收",
+    "Value": "543"
+  },
+  {
+    "Key": "Vova线上-集运专线-万色揽收",
+    "Value": "544"
+  },
+  {
+    "Key": "Vova线上-安骏-欧邮通专线挂号",
+    "Value": "546"
+  },
+  {
+    "Key": "Vova线上-安骏-HKT平邮特货",
+    "Value": "547"
+  },
+  {
+    "Key": "Vova线上-安骏-华东E邮宝",
+    "Value": "548"
+  },
+  {
+    "Key": "Vova线上-安骏-电商专线液体",
+    "Value": "549"
+  },
+  {
+    "Key": "Vova线上-出口易-本地中邮挂号-特货",
+    "Value": "550"
+  },
+  {
+    "Key": "Vova线上-出口易-本地中邮平邮-特货",
+    "Value": "551"
+  },
+  {
+    "Key": "Vova线上-出口易-大陆中邮小包平邮",
+    "Value": "552"
+  },
+  {
+    "Key": "Vova线上-出口易-英国超级专线",
+    "Value": "553"
+  },
+  {
+    "Key": "Vova线上-CNE-夏日促销",
+    "Value": "554"
+  },
+  {
+    "Key": "Vova-线上-万邦-万邮宝电池挂号",
+    "Value": "555"
+  },
+  {
+    "Key": "Vova-线上-万邦-万邮宝液体挂号",
+    "Value": "556"
+  },
+  {
+    "Key": "Vova-线上-万邦-万邮宝电池平邮",
+    "Value": "557"
+  },
+  {
+    "Key": "Vova-线上-万邦-万邮宝液体平邮",
+    "Value": "558"
+  },
+  {
+    "Key": "Vova线上-云途-全球专线挂号（标快）",
+    "Value": "559"
+  },
+  {
+    "Key": "Vova线上-云途-全球专线平邮（标快）",
+    "Value": "560"
+  },
+  {
+    "Key": "Vova线上-云途-全球专线挂号（特惠带电）",
+    "Value": "561"
+  },
+  {
+    "Key": "Vova线上-云途-全球专线平邮（特惠带电）",
+    "Value": "562"
+  },
+  {
+    "Key": "Vova线上-云途-全球专线挂号（特惠普货）",
+    "Value": "563"
+  },
+  {
+    "Key": "Vova线上-云途-全球专线平邮（特惠普货）",
+    "Value": "564"
+  },
+  {
+    "Key": "Vova线上-出口易-法国特惠专线",
+    "Value": "565"
+  },
+  {
+    "Key": "Vova线上-出口易-澳洲超级专线",
+    "Value": "566"
+  },
+  {
+    "Key": "Vova线上-出口易-澳洲特惠专线",
+    "Value": "567"
+  }
+]

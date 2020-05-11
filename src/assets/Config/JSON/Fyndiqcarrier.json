@@ -1,0 +1,50 @@
+[
+  {
+    "Key": "PostNord",
+    "Value": "PostNord"
+  },
+  {
+    "Key": "Schenker",
+    "Value": "Schenker"
+  },
+  {
+    "Key": "DHL",
+    "Value": "DHL"
+  },
+  {
+    "Key": "Royal Mail",
+    "Value": "Royal Mail"
+  },
+  {
+    "Key": "DPD",
+    "Value": "DPD"
+  },
+  {
+    "Key": "Bring",
+    "Value": "Bring"
+  },
+  {
+    "Key": "Deutsche Post",
+    "Value": "Deutsche Post"
+  },
+  {
+    "Key": "YunExpress",
+    "Value": "YunExpress"
+  },
+  {
+    "Key": "GLS",
+    "Value": "GLS"
+  },
+  {
+    "Key": "UPS",
+    "Value": "UPS"
+  },
+  {
+    "Key": "Hermes",
+    "Value": "Hermes"
+  },
+  {
+    "Key": "MTD",
+    "Value": "MTD"
+  }
+]

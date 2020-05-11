@@ -1,0 +1,77 @@
+[
+{
+  "Key": "UPS",
+  "Value": "UPS"
+},
+{
+  "Key": "INPOST",
+  "Value": "INPOST"
+},
+{
+  "Key": "DHL",
+  "Value": "DHL"
+},
+{
+  "Key": "GLS",
+  "Value": "GLS"
+},
+{
+  "Key": "RUCH",
+  "Value": "RUCH"
+},
+{
+  "Key": "POCZTA_POLSKA",
+  "Value": "POCZTA_POLSKA"
+},
+{
+  "Key": "DPD",
+  "Value": "DPD"
+},
+{
+  "Key": "FEDEX",
+  "Value": "FEDEX"
+},
+{
+  "Key": "TNT_EXPRESS",
+  "Value": "TNT_EXPRESS"
+},
+{
+  "Key": "DB_SCHENKER",
+  "Value": "DB_SCHENKER"
+},
+{
+  "Key": "RABEN",
+  "Value": "RABEN"
+},
+{
+  "Key": "GEIS",
+  "Value": "GEIS"
+},
+{
+  "Key": "DTS",
+  "Value": "DTS"
+},
+{
+  "Key": "PEKAES",
+  "Value": "PEKAES"
+},
+{
+  "Key": "PATRON",
+  "Value": "PATRON"
+},
+{
+  "Key": "X_PRESS_COURIERS",
+  "Value": "X_PRESS_COURIERS"
+},
+{
+  "Key": "RHENUS_LOGISTICS",
+  "Value": "RHENUS_LOGISTICS"
+},
+{
+  "Key": "YUN_EXPRESS",
+  "Value": "YUN_EXPRESS"
+},
+{
+  "Key": "CHINA_POST",
+  "Value": "CHINA_POST"
+}]

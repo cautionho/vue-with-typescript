@@ -1,0 +1,609 @@
+[{
+		"Key": "DHL eCommerce",
+		"Value": "DHL eCommerce"
+	},
+	{
+		"Key": "4PX",
+		"Value": "4PX"
+	},
+	{
+		"Key": "A1 Courier Services",
+		"Value": "A1 Courier Services"
+	},
+	{
+		"Key": "ABF",
+		"Value": "ABF"
+	},
+	{
+		"Key": "ALLIED EXPRESS",
+		"Value": "ALLIED EXPRESS"
+	},
+	{
+		"Key": "AMWST",
+		"Value": "AMWST"
+	},
+	{
+		"Key": "An Post",
+		"Value": "An Post"
+	},
+	{
+		"Key": "Aramex",
+		"Value": "Aramex"
+	},
+	{
+		"Key": "ARVATO",
+		"Value": "ARVATO"
+	},
+	{
+		"Key": "ASM",
+		"Value": "ASM"
+	},
+	{
+		"Key": "Australia Post",
+		"Value": "Australia Post"
+	},
+	{
+		"Key": "Australian Air Express",
+		"Value": "Australian Air Express"
+	},
+	{
+		"Key": "AVRT",
+		"Value": "AVRT"
+	},
+	{
+		"Key": "B Post",
+		"Value": "B Post"
+	},
+	{
+		"Key": "Bartolini",
+		"Value": "Bartolini"
+	},
+	{
+		"Key": "BELGIAN POST",
+		"Value": "BELGIAN POST"
+	},
+	{
+		"Key": "BKNS",
+		"Value": "BKNS"
+	},
+	{
+		"Key": "Blue Package",
+		"Value": "Blue Package"
+	},
+	{
+		"Key": "Brokers World Wide",
+		"Value": "Brokers World Wide"
+	},
+	{
+		"Key": "Canada Post",
+		"Value": "Canada Post"
+	},
+	{
+		"Key": "CENF",
+		"Value": "CENF"
+	},
+	{
+		"Key": "CEVA",
+		"Value": "CEVA"
+	},
+	{
+		"Key": "China Post",
+		"Value": "China Post"
+	},
+	{
+		"Key": "Chronopost",
+		"Value": "Chronopost"
+	},
+	{
+		"Key": "CHUKOU1",
+		"Value": "CHUKOU1"
+	},
+	{
+		"Key": "CHUKOU1_EXPRESS",
+		"Value": "CHUKOU1_EXPRESS"
+	},
+	{
+		"Key": "Chunghwa Post",
+		"Value": "Chunghwa Post"
+	},
+	{
+		"Key": "CitiPost",
+		"Value": "CitiPost"
+	},
+	{
+		"Key": "City Link",
+		"Value": "City Link"
+	},
+	{
+		"Key": "CNE",
+		"Value": "CNE"
+	},
+	{
+		"Key": "CNWY",
+		"Value": "CNWY"
+	},
+	{
+		"Key": "Coliposte Domestic",
+		"Value": "Coliposte Domestic"
+	},
+	{
+		"Key": "Coliposte International",
+		"Value": "Coliposte International"
+	},
+	{
+		"Key": "Colissimo",
+		"Value": "Colissimo"
+	},
+	{
+		"Key": "CollectPlus",
+		"Value": "CollectPlus"
+	},
+	{
+		"Key": "Correos",
+		"Value": "Correos"
+	},
+	{
+		"Key": "CPC",
+		"Value": "CPC"
+	},
+	{
+		"Key": "DAC",
+		"Value": "DAC"
+	},
+	{
+		"Key": "DB Schenker",
+		"Value": "DB Schenker"
+	},
+	{
+		"Key": "Deutsche Post",
+		"Value": "Deutsche Post"
+	},
+	{
+		"Key": "DHL",
+		"Value": "DHL"
+	},
+	{
+		"Key": "DHL Global Mail",
+		"Value": "DHL Global Mail"
+	},
+	{
+		"Key": "DHL Global Mail Americas",
+		"Value": "DHL Global Mail Americas"
+	},
+	{
+		"Key": "DHLG",
+		"Value": "DHLG"
+	},
+	{
+		"Key": "Die Schweizerische Post",
+		"Value": "Die Schweizerische Post"
+	},
+	{
+		"Key": "DPD",
+		"Value": "DPD"
+	},
+	{
+		"Key": "Ducros",
+		"Value": "Ducros"
+	},
+	{
+		"Key": "E GO",
+		"Value": "E GO"
+	},
+	{
+		"Key": "EMS",
+		"Value": "EMS"
+	},
+	{
+		"Key": "EUB",
+		"Value": "EUB"
+	},
+	{
+		"Key": "Exapaq",
+		"Value": "Exapaq"
+	},
+	{
+		"Key": "Fastway",
+		"Value": "Fastway"
+	},
+	{
+		"Key": "FASTWAY COURIERS",
+		"Value": "FASTWAY COURIERS"
+	},
+	{
+		"Key": "FedEx",
+		"Value": "FedEx"
+	},
+	{
+		"Key": "FedEx Smart Post",
+		"Value": "FedEx Smart Post"
+	},
+	{
+		"Key": "FedEx Smartpost",
+		"Value": "FedEx Smartpost"
+	},
+	{
+		"Key": "FLYT",
+		"Value": "FLYT"
+	},
+	{
+		"Key": "FLYT Express",
+		"Value": "FLYT Express"
+	},
+	{
+		"Key": "FlytExpress US Direct line",
+		"Value": "FlytExpress US Direct line"
+	},
+	{
+		"Key": "FTFT",
+		"Value": "FTFT"
+	},
+	{
+		"Key": "FulfilExpress-AccStation",
+		"Value": "FulfilExpress-AccStation"
+	},
+	{
+		"Key": "FulfilExpress-eForCity",
+		"Value": "FulfilExpress-eForCity"
+	},
+	{
+		"Key": "FulfilExpress-EverydaySource",
+		"Value": "FulfilExpress-EverydaySource"
+	},
+	{
+		"Key": "FulfilExpress-iTrimming",
+		"Value": "FulfilExpress-iTrimming"
+	},
+	{
+		"Key": "GLS",
+		"Value": "GLS"
+	},
+	{
+		"Key": "GSO",
+		"Value": "GSO"
+	},
+	{
+		"Key": "HDUSA",
+		"Value": "HDUSA"
+	},
+	{
+		"Key": "Home Delivery Network",
+		"Value": "Home Delivery Network"
+	},
+	{
+		"Key": "Hong Kong Post",
+		"Value": "Hong Kong Post"
+	},
+	{
+		"Key": "HUNTER_EXPRESS",
+		"Value": "HUNTER_EXPRESS"
+	},
+	{
+		"Key": "i-parcel",
+		"Value": "i-parcel"
+	},
+	{
+		"Key": "iLoxx",
+		"Value": "iLoxx"
+	},
+	{
+		"Key": "In Post",
+		"Value": "In Post"
+	},
+	{
+		"Key": "India Post",
+		"Value": "India Post"
+	},
+	{
+		"Key": "Indonesia Post",
+		"Value": "Indonesia Post"
+	},
+	{
+		"Key": "InPost",
+		"Value": "InPost"
+	},
+	{
+		"Key": "InterPost",
+		"Value": "InterPost"
+	},
+	{
+		"Key": "IoInvio",
+		"Value": "IoInvio"
+	},
+	{
+		"Key": "Japan Post",
+		"Value": "Japan Post"
+	},
+	{
+		"Key": "KIALA",
+		"Value": "KIALA"
+	},
+	{
+		"Key": "Korea Post",
+		"Value": "Korea Post"
+	},
+	{
+		"Key": "LA POSTE",
+		"Value": "LA POSTE"
+	},
+	{
+		"Key": "Lasership",
+		"Value": "Lasership"
+	},
+	{
+		"Key": "LDSO",
+		"Value": "LDSO"
+	},
+	{
+		"Key": "LTL",
+		"Value": "LTL"
+	},
+	{
+		"Key": "MALAYSIA POST",
+		"Value": "MALAYSIA POST"
+	},
+	{
+		"Key": "Manna Freight",
+		"Value": "Manna Freight"
+	},
+	{
+		"Key": "Mondial Relay",
+		"Value": "Mondial Relay"
+	},
+	{
+		"Key": "MRW",
+		"Value": "MRW"
+	},
+	{
+		"Key": "MSI",
+		"Value": "MSI"
+	},
+	{
+		"Key": "NACEX",
+		"Value": "NACEX"
+	},
+	{
+		"Key": "NEMF",
+		"Value": "NEMF"
+	},
+	{
+		"Key": "Newgistics",
+		"Value": "Newgistics"
+	},
+	{
+		"Key": "ODFL",
+		"Value": "ODFL"
+	},
+	{
+		"Key": "OFFD",
+		"Value": "OFFD"
+	},
+	{
+		"Key": "OnTrac",
+		"Value": "OnTrac"
+	},
+	{
+		"Key": "ONTRACK",
+		"Value": "ONTRACK"
+	},
+	{
+		"Key": "Other",
+		"Value": "Other"
+	},
+	{
+		"Key": "OVNT",
+		"Value": "OVNT"
+	},
+	{
+		"Key": "Parcel Pool",
+		"Value": "Parcel Pool"
+	},
+	{
+		"Key": "Parcelforce",
+		"Value": "Parcelforce"
+	},
+	{
+		"Key": "Philpost",
+		"Value": "Philpost"
+	},
+	{
+		"Key": "Pilot",
+		"Value": "Pilot"
+	},
+	{
+		"Key": "PITD",
+		"Value": "PITD"
+	},
+	{
+		"Key": "Pitt Ohio Trucking",
+		"Value": "Pitt Ohio Trucking"
+	},
+	{
+		"Key": "Poczta Polska",
+		"Value": "Poczta Polska"
+	},
+	{
+		"Key": "Pocztex",
+		"Value": "Pocztex"
+	},
+	{
+		"Key": "POST ITALIANO",
+		"Value": "POST ITALIANO"
+	},
+	{
+		"Key": "Post NL",
+		"Value": "Post NL"
+	},
+	{
+		"Key": "posta.hu",
+		"Value": "posta.hu"
+	},
+	{
+		"Key": "Poste Italiane",
+		"Value": "Poste Italiane"
+	},
+	{
+		"Key": "Prestige",
+		"Value": "Prestige"
+	},
+	{
+		"Key": "Quantium",
+		"Value": "Quantium"
+	},
+	{
+		"Key": "RETL",
+		"Value": "RETL"
+	},
+	{
+		"Key": "Royal Mail",
+		"Value": "Royal Mail"
+	},
+	{
+		"Key": "RRUN",
+		"Value": "RRUN"
+	},
+	{
+		"Key": "Russian Post",
+		"Value": "Russian Post"
+	},
+	{
+		"Key": "SAIA",
+		"Value": "SAIA"
+	},
+	{
+		"Key": "SDA",
+		"Value": "SDA"
+	},
+	{
+		"Key": "Seur",
+		"Value": "Seur"
+	},
+	{
+		"Key": "SFC",
+		"Value": "SFC"
+	},
+	{
+		"Key": "SFC Express",
+		"Value": "SFC Express"
+	},
+	{
+		"Key": "SFC_EXPRESS",
+		"Value": "SFC_EXPRESS"
+	},
+	{
+		"Key": "SFExpress",
+		"Value": "SFExpress"
+	},
+	{
+		"Key": "SFInternational",
+		"Value": "SFInternational"
+	},
+	{
+		"Key": "SINGAPORE POST",
+		"Value": "SINGAPORE POST"
+	},
+	{
+		"Key": "SMART SEND",
+		"Value": "SMART SEND"
+	},
+	{
+		"Key": "Suntek Express LTD",
+		"Value": "Suntek Express LTD"
+	},
+	{
+		"Key": "Sweden Post",
+		"Value": "Sweden Post"
+	},
+	{
+		"Key": "Swiss Post",
+		"Value": "Swiss Post"
+	},
+	{
+		"Key": "TELE",
+		"Value": "TELE"
+	},
+	{
+		"Key": "TEMANDO",
+		"Value": "TEMANDO"
+	},
+	{
+		"Key": "THAILAND POST",
+		"Value": "THAILAND POST"
+	},
+	{
+		"Key": "TNT",
+		"Value": "TNT"
+	},
+	{
+		"Key": "TNT EXPRESS",
+		"Value": "TNT EXPRESS"
+	},
+	{
+		"Key": "TPG",
+		"Value": "TPG"
+	},
+	{
+		"Key": "TWW",
+		"Value": "TWW"
+	},
+	{
+		"Key": "UPS",
+		"Value": "UPS"
+	},
+	{
+		"Key": "UPS Mail Innovations",
+		"Value": "UPS Mail Innovations"
+	},
+	{
+		"Key": "UPSC",
+		"Value": "UPSC"
+	},
+	{
+		"Key": "UPSMI",
+		"Value": "UPSMI"
+	},
+	{
+		"Key": "USFG",
+		"Value": "USFG"
+	},
+	{
+		"Key": "USPS",
+		"Value": "USPS"
+	},
+	{
+		"Key": "Vietnam Post",
+		"Value": "Vietnam Post"
+	},
+	{
+		"Key": "VITR",
+		"Value": "VITR"
+	},
+	{
+		"Key": "WATKINS",
+		"Value": "WATKINS"
+	},
+	{
+		"Key": "winit",
+		"Value": "winit"
+	},
+	{
+		"Key": "WISE",
+		"Value": "WISE"
+	},
+	{
+		"Key": "WPX",
+		"Value": "WPX"
+	},
+	{
+		"Key": "YANWEN",
+		"Value": "YANWEN"
+	},
+	{
+		"Key": "yodel",
+		"Value": "yodel"
+	},
+	{
+		"Key": "YRC",
+		"Value": "YRC"
+	}
+]

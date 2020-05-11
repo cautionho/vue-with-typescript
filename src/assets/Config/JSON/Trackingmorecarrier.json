@@ -1,0 +1,2324 @@
+[
+  {
+    "Key": "DHL",
+    "Value": "dhl"
+  },
+  {
+    "Key": "UPS",
+    "Value": "ups"
+  },
+  {
+    "Key": "Fedex-联邦快递",
+    "Value": "fedex"
+  },
+  {
+    "Key": "TNT",
+    "Value": "tnt"
+  },
+  {
+    "Key": "中国 EMS",
+    "Value": "china-ems"
+  },
+  {
+    "Key": "中国邮政",
+    "Value": "china-post"
+  },
+  {
+    "Key": "新加坡邮政(小包)",
+    "Value": "singapore-post"
+  },
+  {
+    "Key": "新加坡特快专递",
+    "Value": "singapore-speedpost"
+  },
+  {
+    "Key": "香港邮政",
+    "Value": "hong-kong-post"
+  },
+  {
+    "Key": "瑞士邮政",
+    "Value": "swiss-post"
+  },
+  {
+    "Key": "美国邮政",
+    "Value": "usps"
+  },
+  {
+    "Key": "英国皇家邮政",
+    "Value": "royal-mail"
+  },
+  {
+    "Key": "英国邮政parcelforce",
+    "Value": "parcel-force"
+  },
+  {
+    "Key": "荷兰邮政-PostNL",
+    "Value": "postnl-parcels"
+  },
+  {
+    "Key": "荷兰邮政(大包)",
+    "Value": "netherlands-post"
+  },
+  {
+    "Key": "澳大利亚邮政",
+    "Value": "australia-post"
+  },
+  {
+    "Key": "澳大利亚 EMS",
+    "Value": "australia-ems"
+  },
+  {
+    "Key": "加拿大邮政",
+    "Value": "canada-post"
+  },
+  {
+    "Key": "新西兰邮政",
+    "Value": "new-zealand-post"
+  },
+  {
+    "Key": "比利时邮政",
+    "Value": "belgium-post"
+  },
+  {
+    "Key": "巴西邮政",
+    "Value": "brazil-correios"
+  },
+  {
+    "Key": "俄罗斯邮政",
+    "Value": "russian-post"
+  },
+  {
+    "Key": "瑞典邮政",
+    "Value": "sweden-posten"
+  },
+  {
+    "Key": "法国邮政-La Poste",
+    "Value": "laposte"
+  },
+  {
+    "Key": "法国 EMS-Chronopost",
+    "Value": "chronopost"
+  },
+  {
+    "Key": "法国邮政-Colissimo",
+    "Value": "colissimo"
+  },
+  {
+    "Key": "意大利邮政",
+    "Value": "poste-italiane"
+  },
+  {
+    "Key": "印度邮政",
+    "Value": "india-post"
+  },
+  {
+    "Key": "匈牙利邮政",
+    "Value": "magyar-posta"
+  },
+  {
+    "Key": "燕文",
+    "Value": "yanwen"
+  },
+  {
+    "Key": "德国DHL",
+    "Value": "dhl-germany"
+  },
+  {
+    "Key": "爱尔兰邮政",
+    "Value": "an-post"
+  },
+  {
+    "Key": "荷兰DHL",
+    "Value": "dhlparcel-nl"
+  },
+  {
+    "Key": "波兰DHL",
+    "Value": "dhl-poland"
+  },
+  {
+    "Key": "西班牙DHL",
+    "Value": "dhl-es"
+  },
+  {
+    "Key": "墨西哥邮政",
+    "Value": "correos-mexico"
+  },
+  {
+    "Key": "挪威邮政",
+    "Value": "posten-norge"
+  },
+  {
+    "Key": "意大利TNT",
+    "Value": "tnt-it"
+  },
+  {
+    "Key": "法国TNT",
+    "Value": "tnt-fr"
+  },
+  {
+    "Key": "葡萄牙邮政-CTT",
+    "Value": "ctt"
+  },
+  {
+    "Key": "南非邮政",
+    "Value": "south-africa-post"
+  },
+  {
+    "Key": "西班牙邮政",
+    "Value": "correos-spain"
+  },
+  {
+    "Key": "台湾邮政",
+    "Value": "taiwan-post"
+  },
+  {
+    "Key": "乌克兰邮政",
+    "Value": "ukraine-post"
+  },
+  {
+    "Key": "乌克兰 EMS",
+    "Value": "ukraine-ems"
+  },
+  {
+    "Key": "阿联酋邮政",
+    "Value": "emirates-post"
+  },
+  {
+    "Key": "乌拉圭邮政",
+    "Value": "uruguay-post"
+  },
+  {
+    "Key": "日本邮政",
+    "Value": "japan-post"
+  },
+  {
+    "Key": "罗马尼亚邮政",
+    "Value": "posta-romana"
+  },
+  {
+    "Key": "韩国邮政",
+    "Value": "korea-post"
+  },
+  {
+    "Key": "希腊邮政",
+    "Value": "greece-post"
+  },
+  {
+    "Key": "德国邮政",
+    "Value": "deutsche-post"
+  },
+  {
+    "Key": "捷克邮政",
+    "Value": "czech-post"
+  },
+  {
+    "Key": "智利邮政",
+    "Value": "correos-chile"
+  },
+  {
+    "Key": "奥兰群岛芬兰邮政",
+    "Value": "aland-post"
+  },
+  {
+    "Key": "澳门邮政",
+    "Value": "macao-post"
+  },
+  {
+    "Key": "Wish邮",
+    "Value": "wishpost"
+  },
+  {
+    "Key": "PFC皇家物流",
+    "Value": "pfcexpress"
+  },
+  {
+    "Key": "云途物流",
+    "Value": "yunexpress"
+  },
+  {
+    "Key": "CNE国际快递",
+    "Value": "cnexps"
+  },
+  {
+    "Key": "捷买送",
+    "Value": "buylogic"
+  },
+  {
+    "Key": "递四方",
+    "Value": "4px"
+  },
+  {
+    "Key": "安骏物流",
+    "Value": "anjun"
+  },
+  {
+    "Key": "J-NET捷网",
+    "Value": "j-net"
+  },
+  {
+    "Key": "深圳淼信国际物流",
+    "Value": "miuson-international"
+  },
+  {
+    "Key": "顺丰国际",
+    "Value": "sfb2c"
+  },
+  {
+    "Key": "顺丰速递",
+    "Value": "sf-express"
+  },
+  {
+    "Key": "申通快递",
+    "Value": "sto"
+  },
+  {
+    "Key": "圆通快递",
+    "Value": "yto"
+  },
+  {
+    "Key": "天天快递",
+    "Value": "ttkd"
+  },
+  {
+    "Key": "京东快递",
+    "Value": "jd"
+  },
+  {
+    "Key": "中通快递",
+    "Value": "zto"
+  },
+  {
+    "Key": "宅急送快递",
+    "Value": "zjs-express"
+  },
+  {
+    "Key": "韵达快递",
+    "Value": "yunda"
+  },
+  {
+    "Key": "德邦物流",
+    "Value": "deppon"
+  },
+  {
+    "Key": "星前物流",
+    "Value": "xqwl"
+  },
+  {
+    "Key": "出口易",
+    "Value": "chukou1"
+  },
+  {
+    "Key": "XRU-俄速递",
+    "Value": "xru"
+  },
+  {
+    "Key": "Ruston俄速通",
+    "Value": "ruston"
+  },
+  {
+    "Key": "全峰快递",
+    "Value": "qfkd"
+  },
+  {
+    "Key": "南京沃源",
+    "Value": "nanjingwoyuan"
+  },
+  {
+    "Key": "华翰物流",
+    "Value": "hhexp"
+  },
+  {
+    "Key": "飞特物流",
+    "Value": "flytexpress"
+  },
+  {
+    "Key": "阿里电商物流",
+    "Value": "al8856"
+  },
+  {
+    "Key": "JCEX佳成",
+    "Value": "jcex"
+  },
+  {
+    "Key": "递必易",
+    "Value": "dpe-express"
+  },
+  {
+    "Key": "LWE",
+    "Value": "lwehk"
+  },
+  {
+    "Key": "EQUICK国际快递",
+    "Value": "equick-cn"
+  },
+  {
+    "Key": "布谷鸟速递",
+    "Value": "cuckooexpress"
+  },
+  {
+    "Key": "递五洲国际物流",
+    "Value": "dwz"
+  },
+  {
+    "Key": "泰嘉物流",
+    "Value": "takesend"
+  },
+  {
+    "Key": "茂聪国际物流",
+    "Value": "md-express"
+  },
+  {
+    "Key": "速卖通线上物流",
+    "Value": "cainiao"
+  },
+  {
+    "Key": "TGX精英速运",
+    "Value": "tgx"
+  },
+  {
+    "Key": "澳世速递",
+    "Value": "aus"
+  },
+  {
+    "Key": "三象速递",
+    "Value": "sxexpress"
+  },
+  {
+    "Key": "斯里兰卡邮政",
+    "Value": "sri-lanka-post"
+  },
+  {
+    "Key": "EWE全球快递",
+    "Value": "ewe"
+  },
+  {
+    "Key": "美国急递速递",
+    "Value": "jdpplus"
+  },
+  {
+    "Key": "苏丹邮政",
+    "Value": "sudan-post"
+  },
+  {
+    "Key": "森鸿物流",
+    "Value": "showl"
+  },
+  {
+    "Key": "叙利亚邮政",
+    "Value": "syrian-post"
+  },
+  {
+    "Key": "RaidereX",
+    "Value": "raiderex"
+  },
+  {
+    "Key": "AlleKurier",
+    "Value": "allekurier"
+  },
+  {
+    "Key": "Sendle",
+    "Value": "sendle"
+  },
+  {
+    "Key": "RZY Express",
+    "Value": "rzyexpress"
+  },
+  {
+    "Key": "转运四方",
+    "Value": "transrush"
+  },
+  {
+    "Key": "坦桑尼亚邮政",
+    "Value": "tanzania-post"
+  },
+  {
+    "Key": "速腾快递",
+    "Value": "ste56"
+  },
+  {
+    "Key": "Bombino Express",
+    "Value": "bombino-express"
+  },
+  {
+    "Key": "泰国邮政",
+    "Value": "thailand-post"
+  },
+  {
+    "Key": "Airpak Express",
+    "Value": "airpak-express"
+  },
+  {
+    "Key": "winit万邑通",
+    "Value": "winit"
+  },
+  {
+    "Key": "多哥邮政",
+    "Value": "togo-post"
+  },
+  {
+    "Key": "新西兰易达通",
+    "Value": "qexpress"
+  },
+  {
+    "Key": "汤加邮政",
+    "Value": "tonga-post"
+  },
+  {
+    "Key": "LBC Express",
+    "Value": "lbcexpress"
+  },
+  {
+    "Key": "斑马物联网",
+    "Value": "360zebra"
+  },
+  {
+    "Key": "秦远物流",
+    "Value": "chinz56"
+  },
+  {
+    "Key": "突尼斯邮政",
+    "Value": "tunisia-post"
+  },
+  {
+    "Key": "Pandu Logistics",
+    "Value": "pandulogistics"
+  },
+  {
+    "Key": "澳邮中国快运AuExpress",
+    "Value": "auexpress"
+  },
+  {
+    "Key": "iepost",
+    "Value": "iepost"
+  },
+  {
+    "Key": "土耳其邮政",
+    "Value": "turkey-post"
+  },
+  {
+    "Key": "香港DPD",
+    "Value": "dpd-hk"
+  },
+  {
+    "Key": "英国FedEx",
+    "Value": "fedex-uk"
+  },
+  {
+    "Key": "乌干达邮政",
+    "Value": "uganda-post"
+  },
+  {
+    "Key": "Collect+",
+    "Value": "collectplus"
+  },
+  {
+    "Key": "中铁物流",
+    "Value": "ztky"
+  },
+  {
+    "Key": "TNT Click",
+    "Value": "tnt-click"
+  },
+  {
+    "Key": "Skynet Worldwide Express UK",
+    "Value": "skynetworldwide-uk"
+  },
+  {
+    "Key": "大达物流",
+    "Value": "idada56"
+  },
+  {
+    "Key": "如风达",
+    "Value": "rufengda"
+  },
+  {
+    "Key": "Whistl",
+    "Value": "whistl"
+  },
+  {
+    "Key": "Hermesworld",
+    "Value": "hermes"
+  },
+  {
+    "Key": "Jersey Post",
+    "Value": "jersey-post"
+  },
+  {
+    "Key": "DX Delivery",
+    "Value": "dxdelivery"
+  },
+  {
+    "Key": "Nightline",
+    "Value": "nightline"
+  },
+  {
+    "Key": "Ninja Van （马来西亚）",
+    "Value": "ninjavan-my"
+  },
+  {
+    "Key": "MailAmericas",
+    "Value": "mailamericas"
+  },
+  {
+    "Key": "荟千物流",
+    "Value": "huilogistics"
+  },
+  {
+    "Key": "乌兹别克斯坦邮政",
+    "Value": "uzbekistan-post"
+  },
+  {
+    "Key": "APC Postal Logistics",
+    "Value": "apc"
+  },
+  {
+    "Key": "Ninja Van （印度尼西亚）",
+    "Value": "ninjaxpress"
+  },
+  {
+    "Key": "泛远国际物流",
+    "Value": "far800"
+  },
+  {
+    "Key": "速配鸥翼",
+    "Value": "superoz"
+  },
+  {
+    "Key": "瓦努阿图邮政",
+    "Value": "vanuatu-post"
+  },
+  {
+    "Key": "Newgistics",
+    "Value": "newgistics"
+  },
+  {
+    "Key": "DHL Netherlands",
+    "Value": "dhl-parcel-nl"
+  },
+  {
+    "Key": "Ninja Van (菲律宾)",
+    "Value": "ninjavan-ph"
+  },
+  {
+    "Key": "LWE云豹",
+    "Value": "leopardschina"
+  },
+  {
+    "Key": "Old Dominion Freight Line",
+    "Value": "old-dominion"
+  },
+  {
+    "Key": "Roadbull Logistics",
+    "Value": "roadbull"
+  },
+  {
+    "Key": "Ninja Van （泰国）",
+    "Value": "ninjavan-th"
+  },
+  {
+    "Key": "speed-post",
+    "Value": "speed-post"
+  },
+  {
+    "Key": "越南邮政",
+    "Value": "vietnam-post"
+  },
+  {
+    "Key": "DHL Benelux",
+    "Value": "dhl-benelux"
+  },
+  {
+    "Key": "Estes",
+    "Value": "estes"
+  },
+  {
+    "Key": "赛诚国际物流",
+    "Value": "saicheng"
+  },
+  {
+    "Key": "北泰物流",
+    "Value": "cbtsd"
+  },
+  {
+    "Key": "也门邮政",
+    "Value": "yemen-post"
+  },
+  {
+    "Key": "赞比亚邮政",
+    "Value": "zambia-post"
+  },
+  {
+    "Key": "败欧洲",
+    "Value": "8europe"
+  },
+  {
+    "Key": "Overseas Logistics 印度快递",
+    "Value": "overseas-logistics"
+  },
+  {
+    "Key": "津巴布韦邮政",
+    "Value": "zimbabwe-post"
+  },
+  {
+    "Key": "Greyhound",
+    "Value": "greyhound"
+  },
+  {
+    "Key": "Linex 快递",
+    "Value": "linexsolutions"
+  },
+  {
+    "Key": "Globegistics Inc",
+    "Value": "globegistics"
+  },
+  {
+    "Key": "速邮达物流",
+    "Value": "suyd56"
+  },
+  {
+    "Key": "Nexive",
+    "Value": "nexive"
+  },
+  {
+    "Key": "Tk Kit",
+    "Value": "tk-kit"
+  },
+  {
+    "Key": "Asendia HK",
+    "Value": "asendia-hk"
+  },
+  {
+    "Key": "ASM",
+    "Value": "asmred"
+  },
+  {
+    "Key": "Overnite印度快递",
+    "Value": "overnitenet"
+  },
+  {
+    "Key": "Airwings Courier Express India",
+    "Value": "airwings-india"
+  },
+  {
+    "Key": "德国Hermes",
+    "Value": "hermes-de"
+  },
+  {
+    "Key": "The Professional Couriers (TPC)",
+    "Value": "professional-couriers"
+  },
+  {
+    "Key": "International Seur",
+    "Value": "international-seur"
+  },
+  {
+    "Key": "ABF Freight",
+    "Value": "abf"
+  },
+  {
+    "Key": "TrakPak",
+    "Value": "trakpak"
+  },
+  {
+    "Key": "Mondial Relay",
+    "Value": "mondialrelay"
+  },
+  {
+    "Key": "Matkahuolto",
+    "Value": "matkahuolto"
+  },
+  {
+    "Key": "利佳顺",
+    "Value": "bt-exp"
+  },
+  {
+    "Key": "Couriers Please",
+    "Value": "couriers-please"
+  },
+  {
+    "Key": "ACS Courier",
+    "Value": "acscourier"
+  },
+  {
+    "Key": "上海亚翔",
+    "Value": "asiafly"
+  },
+  {
+    "Key": "RL Carriers",
+    "Value": "rl-carriers"
+  },
+  {
+    "Key": "阿富汗邮政",
+    "Value": "afghan-post"
+  },
+  {
+    "Key": "波兰DPD",
+    "Value": "dpd-poland"
+  },
+  {
+    "Key": "韩进物流",
+    "Value": "hanjin"
+  },
+  {
+    "Key": "阿尔巴尼亚邮政",
+    "Value": "posta-shqiptare"
+  },
+  {
+    "Key": "Geniki Taxydromiki",
+    "Value": "taxydromiki"
+  },
+  {
+    "Key": "国通快递",
+    "Value": "cess"
+  },
+  {
+    "Key": "金陵飞豹快递",
+    "Value": "njfeibao"
+  },
+  {
+    "Key": "安道尔邮政",
+    "Value": "andorra-post"
+  },
+  {
+    "Key": "Envialia",
+    "Value": "envialia"
+  },
+  {
+    "Key": "百世快递",
+    "Value": "bestex"
+  },
+  {
+    "Key": "First Flight Couriers",
+    "Value": "firstflightme"
+  },
+  {
+    "Key": "Canpar Courier",
+    "Value": "canpar"
+  },
+  {
+    "Key": "Adicional Logistics",
+    "Value": "adicional"
+  },
+  {
+    "Key": "17 Post Service",
+    "Value": "17postservice"
+  },
+  {
+    "Key": "CBL Logistics",
+    "Value": "cbl-logistica"
+  },
+  {
+    "Key": "JET",
+    "Value": "jet"
+  },
+  {
+    "Key": "Redur Spain",
+    "Value": "redur-es"
+  },
+  {
+    "Key": "纬狮物联网",
+    "Value": "360lion"
+  },
+  {
+    "Key": "荷属安的列斯荷兰邮政",
+    "Value": "antilles-post"
+  },
+  {
+    "Key": "阿根廷邮政",
+    "Value": "correo-argentino"
+  },
+  {
+    "Key": "Siodemka",
+    "Value": "siodemka"
+  },
+  {
+    "Key": "亚美尼亚邮政",
+    "Value": "armenia-post"
+  },
+  {
+    "Key": "阿鲁巴邮政",
+    "Value": "aruba-post"
+  },
+  {
+    "Key": "Exapaq",
+    "Value": "exapaq"
+  },
+  {
+    "Key": "新竹物流HCT",
+    "Value": "hct"
+  },
+  {
+    "Key": "林道快递",
+    "Value": "ldxpress"
+  },
+  {
+    "Key": "奥地利邮政",
+    "Value": "austria-post"
+  },
+  {
+    "Key": "阿塞拜疆邮政",
+    "Value": "azerbaijan-post"
+  },
+  {
+    "Key": "韩国CJ物流",
+    "Value": "doortodoor"
+  },
+  {
+    "Key": "巴林邮政",
+    "Value": "bahrain-post"
+  },
+  {
+    "Key": "跨境壹号",
+    "Value": "kuajingyihao"
+  },
+  {
+    "Key": "孟加拉国 EMS",
+    "Value": "bangladesh-ems"
+  },
+  {
+    "Key": "7-ELEVEN",
+    "Value": "qi-eleven"
+  },
+  {
+    "Key": "巴巴多斯邮政",
+    "Value": "barbados-post"
+  },
+  {
+    "Key": "白俄罗斯邮政",
+    "Value": "belpochta"
+  },
+  {
+    "Key": "橙联股份",
+    "Value": "orangeconnex"
+  },
+  {
+    "Key": "伯利兹邮政",
+    "Value": "belize-post"
+  },
+  {
+    "Key": "俄顺达",
+    "Value": "007ex"
+  },
+  {
+    "Key": "贝宁邮政",
+    "Value": "benin-post"
+  },
+  {
+    "Key": "百慕大邮政",
+    "Value": "bermuda-post"
+  },
+  {
+    "Key": "急速国际",
+    "Value": "js-exp"
+  },
+  {
+    "Key": "不丹邮政",
+    "Value": "bhutan-post"
+  },
+  {
+    "Key": "玻利维亚邮政",
+    "Value": "correos-bolivia"
+  },
+  {
+    "Key": "Gofly",
+    "Value": "gofly"
+  },
+  {
+    "Key": "高翔物流",
+    "Value": "gaopost"
+  },
+  {
+    "Key": "波黑邮政",
+    "Value": "bosnia-and-herzegovina-post"
+  },
+  {
+    "Key": "博茨瓦纳邮政",
+    "Value": "botswana-post"
+  },
+  {
+    "Key": "亚风快递",
+    "Value": "airfex"
+  },
+  {
+    "Key": "文莱邮政",
+    "Value": "brunei-post"
+  },
+  {
+    "Key": "保加利亚邮政",
+    "Value": "bulgaria-post"
+  },
+  {
+    "Key": "全球国际货运",
+    "Value": "dbschenker"
+  },
+  {
+    "Key": "布基纳法索邮政",
+    "Value": "sonapost"
+  },
+  {
+    "Key": "布隆迪邮政",
+    "Value": "burundi-post"
+  },
+  {
+    "Key": "中外运",
+    "Value": "sinoair"
+  },
+  {
+    "Key": "UK Mail",
+    "Value": "ukmail"
+  },
+  {
+    "Key": "柬埔寨邮政",
+    "Value": "cambodia-post"
+  },
+  {
+    "Key": "喀麦隆邮政",
+    "Value": "campost"
+  },
+  {
+    "Key": "意大利SDA",
+    "Value": "italy-sda"
+  },
+  {
+    "Value": "correios-cabo-verde"
+  },
+  {
+    "Key": "黑貓宅急便",
+    "Value": "t-cat"
+  },
+  {
+    "Key": "一海通",
+    "Value": "yht"
+  },
+  {
+    "Key": "速派快递FastGo",
+    "Value": "fastgo"
+  },
+  {
+    "Key": "哥伦比亚邮政",
+    "Value": "colombia-post"
+  },
+  {
+    "Key": "Delcart",
+    "Value": "delcart-in"
+  },
+  {
+    "Key": "MyIB",
+    "Value": "myib"
+  },
+  {
+    "Key": "PCA",
+    "Value": "pca"
+  },
+  {
+    "Key": "City-Link(信递联）",
+    "Value": "citylinkexpress"
+  },
+  {
+    "Key": "Fulfillmen",
+    "Value": "fulfillmen"
+  },
+  {
+    "Key": "富腾达快递",
+    "Value": "ftd"
+  },
+  {
+    "Key": "2GO",
+    "Value": "2go"
+  },
+  {
+    "Key": "tuffnells",
+    "Value": "tuffnells"
+  },
+  {
+    "Key": "哥斯达黎加邮政",
+    "Value": "correos-de-costa-rica"
+  },
+  {
+    "Key": "飞洋快递",
+    "Value": "shipgce"
+  },
+  {
+    "Key": "FQ狂派速递",
+    "Value": "freakyquick"
+  },
+  {
+    "Key": "克罗地亚邮政",
+    "Value": "hrvatska-posta"
+  },
+  {
+    "Key": "Xend",
+    "Value": "xend"
+  },
+  {
+    "Key": "海龟国际速递",
+    "Value": "turtle-express"
+  },
+  {
+    "Key": "古巴邮政",
+    "Value": "cuba-post"
+  },
+  {
+    "Key": "万色速递",
+    "Value": "wise-express"
+  },
+  {
+    "Key": "速尔快递",
+    "Value": "sure56"
+  },
+  {
+    "Key": "塞浦路斯邮政",
+    "Value": "cyprus-post"
+  },
+  {
+    "Key": "AIR21",
+    "Value": "air21"
+  },
+  {
+    "Key": "GATI上海迦递",
+    "Value": "gaticn"
+  },
+  {
+    "Key": "CEVA物流",
+    "Value": "ceva-logistics"
+  },
+  {
+    "Key": "中邮快递",
+    "Value": "cnpex"
+  },
+  {
+    "Key": "丹麦邮政",
+    "Value": "denmark-post"
+  },
+  {
+    "Key": "Airspeed International Corporation",
+    "Value": "airspeed"
+  },
+  {
+    "Key": "DPEX国际快递（中国）",
+    "Value": "szdpex"
+  },
+  {
+    "Key": "UBX Express",
+    "Value": "ubx-uk"
+  },
+  {
+    "Key": "1号仓",
+    "Value": "1hcang"
+  },
+  {
+    "Key": "RAF Philippines",
+    "Value": "raf"
+  },
+  {
+    "Key": "Shree Mahabali Express",
+    "Value": "shree-mahabali-express"
+  },
+  {
+    "Key": "亚欧快运TEA",
+    "Value": "tea-post"
+  },
+  {
+    "Key": "YDH义达物流",
+    "Value": "ydhex"
+  },
+  {
+    "Key": "Tiki",
+    "Value": "tiki"
+  },
+  {
+    "Key": "厄瓜多尔邮政",
+    "Value": "correos-del-ecuador"
+  },
+  {
+    "Key": "顺友物流",
+    "Value": "sunyou"
+  },
+  {
+    "Key": "瞬程物流",
+    "Value": "quickway"
+  },
+  {
+    "Key": "埃及邮政",
+    "Value": "egypt-post"
+  },
+  {
+    "Key": "Wahana",
+    "Value": "wahana"
+  },
+  {
+    "Key": "萨尔瓦多邮政",
+    "Value": "el-salvador-post"
+  },
+  {
+    "Key": "DHL Global Mail Asia",
+    "Value": "dhlecommerce-asia"
+  },
+  {
+    "Key": "Giao Hàng Nhanh",
+    "Value": "ghn"
+  },
+  {
+    "Key": "厄立特里亚邮政",
+    "Value": "eritrea-post"
+  },
+  {
+    "Key": "DHL Active Tracing",
+    "Value": "dhl-active"
+  },
+  {
+    "Key": "爱沙尼亚邮政",
+    "Value": "omniva"
+  },
+  {
+    "Key": "Viettel Post",
+    "Value": "viettelpost"
+  },
+  {
+    "Key": "埃塞俄比亚邮政",
+    "Value": "ethiopia-post"
+  },
+  {
+    "Key": "TNT Reference",
+    "Value": "tnt-reference"
+  },
+  {
+    "Key": "法罗群岛邮政",
+    "Value": "faroe-islands-post"
+  },
+  {
+    "Key": "Dotzot",
+    "Value": "dotzot"
+  },
+  {
+    "Key": "云路物流",
+    "Value": "yunlu"
+  },
+  {
+    "Key": "斐济邮政",
+    "Value": "fiji-post"
+  },
+  {
+    "Key": "Kangaroo Worldwide Express",
+    "Value": "kangaroo-my"
+  },
+  {
+    "Key": "芬兰邮政-Posti",
+    "Value": "finland-posti"
+  },
+  {
+    "Key": "佳怡物流",
+    "Value": "jiayi56"
+  },
+  {
+    "Key": "Kerry Express",
+    "Value": "kerryexpress"
+  },
+  {
+    "Key": "Deltec Courier",
+    "Value": "deltec-courier"
+  },
+  {
+    "Key": "Maxcellents Pte Ltd",
+    "Value": "maxcellents"
+  },
+  {
+    "Key": "GEL 快递",
+    "Value": "gel-express"
+  },
+  {
+    "Key": "Nationwide Express",
+    "Value": "nationwide-my"
+  },
+  {
+    "Key": "格鲁吉亚邮政",
+    "Value": "georgian-post"
+  },
+  {
+    "Key": "RPX保时达国际快递",
+    "Value": "rpxonline"
+  },
+  {
+    "Key": "加纳邮政",
+    "Value": "ghana-post"
+  },
+  {
+    "Key": "中国流通王",
+    "Value": "scorejp"
+  },
+  {
+    "Key": "直布罗陀邮政",
+    "Value": "gibraltar-post"
+  },
+  {
+    "Key": "Nhans Solutions",
+    "Value": "nhans-solutions"
+  },
+  {
+    "Key": "易速国际物流",
+    "Value": "espeedpost"
+  },
+  {
+    "Key": "龙迅国际物流",
+    "Value": "ldlog"
+  },
+  {
+    "Key": "格陵兰岛邮政",
+    "Value": "tele-post"
+  },
+  {
+    "Key": "Jet-Ship Worldwide",
+    "Value": "jet-ship"
+  },
+  {
+    "Key": "XPOST",
+    "Value": "xpost"
+  },
+  {
+    "Key": "危地马拉邮政",
+    "Value": "elcorreo"
+  },
+  {
+    "Key": "Ecargo",
+    "Value": "ecargo-asia"
+  },
+  {
+    "Key": "澳邮欧洲专线平邮",
+    "Value": "myaustrianpost"
+  },
+  {
+    "Key": "根西岛邮政",
+    "Value": "guernsey-post"
+  },
+  {
+    "Key": "Delhivery",
+    "Value": "delhivery"
+  },
+  {
+    "Key": "GLS",
+    "Value": "gls"
+  },
+  {
+    "Key": "慧合物流",
+    "Value": "cosex"
+  },
+  {
+    "Key": "BRT Bartolini",
+    "Value": "bartolini"
+  },
+  {
+    "Key": "NuvoEx",
+    "Value": "nuvoex"
+  },
+  {
+    "Key": "俄通收",
+    "Value": "ets-express"
+  },
+  {
+    "Key": "DPD",
+    "Value": "dpd"
+  },
+  {
+    "Key": "Parcelled.in",
+    "Value": "parcelled-in"
+  },
+  {
+    "Key": "鸿泰物流",
+    "Value": "ht56"
+  },
+  {
+    "Key": "Aramex",
+    "Value": "aramex"
+  },
+  {
+    "Key": "TOLL",
+    "Value": "toll"
+  },
+  {
+    "Key": "Ecom Express",
+    "Value": "ecom-express"
+  },
+  {
+    "Key": "冠庭国际物流",
+    "Value": "quantium"
+  },
+  {
+    "Key": "易连供应链",
+    "Value": "elianpost"
+  },
+  {
+    "Key": "冰岛邮政",
+    "Value": "iceland-post"
+  },
+  {
+    "Key": "GDEX",
+    "Value": "gdex"
+  },
+  {
+    "Key": "Alpha Fast快递",
+    "Value": "alpha-fast"
+  },
+  {
+    "Key": "深圳宝通达",
+    "Value": "btd56"
+  },
+  {
+    "Key": "Omni Parcel快递",
+    "Value": "omniparcel"
+  },
+  {
+    "Key": "印度尼西亚邮政",
+    "Value": "indonesia-post"
+  },
+  {
+    "Key": "SkyNet",
+    "Value": "skynet"
+  },
+  {
+    "Key": "CDEK快递",
+    "Value": "cdek"
+  },
+  {
+    "Key": "Shree Maruti Courier",
+    "Value": "shreemaruticourier"
+  },
+  {
+    "Key": "伊朗邮政",
+    "Value": "iran-post"
+  },
+  {
+    "Key": "Trackon",
+    "Value": "trackon"
+  },
+  {
+    "Key": "BQC百千诚物流",
+    "Value": "bqc"
+  },
+  {
+    "Key": "以色列邮政",
+    "Value": "israel-post"
+  },
+  {
+    "Key": "PostNL International 3S",
+    "Value": "postnl-3s"
+  },
+  {
+    "Key": "OCS国际快递",
+    "Value": "ocschina"
+  },
+  {
+    "Key": "方圆物流",
+    "Value": "hnfywl"
+  },
+  {
+    "Key": "科特迪瓦 EMS",
+    "Value": "ivory-coast-ems"
+  },
+  {
+    "Key": "Naqel",
+    "Value": "naqel"
+  },
+  {
+    "Key": "Kerry Tec",
+    "Value": "kerry-tec"
+  },
+  {
+    "Key": "牙买加邮政",
+    "Value": "jamaica-post"
+  },
+  {
+    "Key": "Pitney Bowes",
+    "Value": "parcel"
+  },
+  {
+    "Key": "BEL北俄国际",
+    "Value": "8256ru"
+  },
+  {
+    "Key": "约旦邮政",
+    "Value": "jordan-post"
+  },
+  {
+    "Key": "万欧国际",
+    "Value": "oneworldexpress"
+  },
+  {
+    "Key": "哈萨克斯坦邮政",
+    "Value": "kazpost"
+  },
+  {
+    "Key": "ADSOne快递",
+    "Value": "adsone"
+  },
+  {
+    "Key": "佰事达",
+    "Value": "bsi"
+  },
+  {
+    "Key": "CXC物流",
+    "Value": "cxc"
+  },
+  {
+    "Key": "肯尼亚邮政",
+    "Value": "kenya-post"
+  },
+  {
+    "Key": "Landmark Global快递",
+    "Value": "landmark-global"
+  },
+  {
+    "Key": "The Courier Guy",
+    "Value": "thecourierguy"
+  },
+  {
+    "Key": "SMSA快递",
+    "Value": "smsa-express"
+  },
+  {
+    "Key": "京广速递",
+    "Value": "kke"
+  },
+  {
+    "Key": "Jayeek",
+    "Value": "jayeek"
+  },
+  {
+    "Key": "百世快运",
+    "Value": "800best"
+  },
+  {
+    "Key": "Cosmetics Now",
+    "Value": "costmeticsnow"
+  },
+  {
+    "Key": "蓝天快递",
+    "Value": "blueskyexpress"
+  },
+  {
+    "Key": "吉尔吉斯斯坦邮政",
+    "Value": "kyrgyzpost"
+  },
+  {
+    "Key": "三态速递",
+    "Value": "sfcservice"
+  },
+  {
+    "Key": "速通物流",
+    "Value": "sut56"
+  },
+  {
+    "Key": "老挝邮政",
+    "Value": "laos-post"
+  },
+  {
+    "Key": "马来西亚EMS",
+    "Value": "poslaju"
+  },
+  {
+    "Key": "拉脱维亚邮政",
+    "Value": "latvijas-pasts"
+  },
+  {
+    "Key": "EC-Firstclass",
+    "Value": "ec-firstclass"
+  },
+  {
+    "Key": "延锦国际",
+    "Value": "yji"
+  },
+  {
+    "Key": "黎巴嫩邮政",
+    "Value": "liban-post"
+  },
+  {
+    "Key": "Safexpress",
+    "Value": "safexpress"
+  },
+  {
+    "Key": "莱索托邮政",
+    "Value": "lesotho-post"
+  },
+  {
+    "Key": "DHL电子商务",
+    "Value": "dhlglobalmail"
+  },
+  {
+    "Key": "WeDo Logistics",
+    "Value": "wedo"
+  },
+  {
+    "Key": "SpeedPAK物流",
+    "Value": "speedpak"
+  },
+  {
+    "Key": "DPD UK",
+    "Value": "dpd-uk"
+  },
+  {
+    "Key": "TAQBIN 马来西亚",
+    "Value": "taqbin-my"
+  },
+  {
+    "Key": "TNT UK",
+    "Value": "tnt-uk"
+  },
+  {
+    "Key": "Zajil快递",
+    "Value": "zajil"
+  },
+  {
+    "Key": "列支敦士登邮政",
+    "Value": "liechtenstein-post"
+  },
+  {
+    "Key": "立陶宛邮政",
+    "Value": "lietuvos-pastas"
+  },
+  {
+    "Key": "Lazada (LGS) 快递",
+    "Value": "lgs"
+  },
+  {
+    "Key": "卢森堡邮政",
+    "Value": "luxembourg-post"
+  },
+  {
+    "Key": "意大利GLS",
+    "Value": "gls-italy"
+  },
+  {
+    "Key": "InPost Paczkomaty",
+    "Value": "inpost-paczkomaty"
+  },
+  {
+    "Key": "Shree Tirupati",
+    "Value": "shree-tirupati"
+  },
+  {
+    "Key": "德坤物流",
+    "Value": "dekun"
+  },
+  {
+    "Key": "DSV",
+    "Value": "dsv"
+  },
+  {
+    "Key": "Star Track 快递",
+    "Value": "star-track"
+  },
+  {
+    "Key": "马其顿邮政",
+    "Value": "macedonia-post"
+  },
+  {
+    "Key": "Echo",
+    "Value": "echo"
+  },
+  {
+    "Key": "IML艾姆勒",
+    "Value": "imlb2c"
+  },
+  {
+    "Key": "爱尔兰DPD",
+    "Value": "dpd-ireland"
+  },
+  {
+    "Key": "EMPS Express",
+    "Value": "empsexpress"
+  },
+  {
+    "Key": "壹米滴答",
+    "Value": "yimidida"
+  },
+  {
+    "Key": "Toll IPEC",
+    "Value": "toll-ipec"
+  },
+  {
+    "Key": "OnTrac",
+    "Value": "ontrac"
+  },
+  {
+    "Key": "海沧无忧",
+    "Value": "hivewms"
+  },
+  {
+    "Key": "马来西亚邮政",
+    "Value": "malaysia-post"
+  },
+  {
+    "Key": "Asendia USA",
+    "Value": "asendia-usa"
+  },
+  {
+    "Key": "CPacket",
+    "Value": "cpacket"
+  },
+  {
+    "Key": "ECPOST",
+    "Value": "ecpost"
+  },
+  {
+    "Key": "马尔代夫邮政",
+    "Value": "maldives-post"
+  },
+  {
+    "Key": "Asendia UK",
+    "Value": "asendia-uk"
+  },
+  {
+    "Key": "Cacesa南美专线",
+    "Value": "cacesapostal"
+  },
+  {
+    "Key": "Yodel",
+    "Value": "yodel"
+  },
+  {
+    "Key": "中铁快运",
+    "Value": "cre"
+  },
+  {
+    "Key": "马耳他邮政",
+    "Value": "malta-post"
+  },
+  {
+    "Key": "Asendia Germany",
+    "Value": "asendia-de"
+  },
+  {
+    "Key": "Bonds Couriers",
+    "Value": "bondscouriers"
+  },
+  {
+    "Key": "全酋通Usky",
+    "Value": "uskyexpress"
+  },
+  {
+    "Key": "全家快递",
+    "Value": "famiport"
+  },
+  {
+    "Key": "嘉里大通物流",
+    "Value": "kerry-logistics"
+  },
+  {
+    "Key": "毛里求斯邮政",
+    "Value": "mauritius-post"
+  },
+  {
+    "Key": "CourierPost",
+    "Value": "courierpost"
+  },
+  {
+    "Key": "方舟国际速递",
+    "Value": "arkexpress"
+  },
+  {
+    "Key": "摩尔多瓦邮政",
+    "Value": "moldova-post"
+  },
+  {
+    "Key": "Purolator",
+    "Value": "purolator"
+  },
+  {
+    "Key": "ACommerce",
+    "Value": "acommerce"
+  },
+  {
+    "Key": "合联国际物流",
+    "Value": "winlink"
+  },
+  {
+    "Key": "Meest快递",
+    "Value": "meest"
+  },
+  {
+    "Key": "摩纳哥邮政",
+    "Value": "la-poste-monaco"
+  },
+  {
+    "Key": "139快递",
+    "Value": "139express"
+  },
+  {
+    "Key": "摩纳哥 EMS",
+    "Value": "monaco-ems"
+  },
+  {
+    "Key": "Boxc",
+    "Value": "boxc"
+  },
+  {
+    "Key": "蒙古邮政",
+    "Value": "mongol-post"
+  },
+  {
+    "Key": "UBI Logistics",
+    "Value": "ubi-logistics"
+  },
+  {
+    "Key": "xpresspost",
+    "Value": "xpresspost"
+  },
+  {
+    "Key": "黑山邮政",
+    "Value": "posta-crne-gore"
+  },
+  {
+    "Key": "新西兰Fastway",
+    "Value": "fastway-nz"
+  },
+  {
+    "Key": "乐天国际",
+    "Value": "ltian"
+  },
+  {
+    "Key": "摩洛哥邮政",
+    "Value": "poste-maroc"
+  },
+  {
+    "Key": "DPEX",
+    "Value": "dpex"
+  },
+  {
+    "Key": "澳大利亚Fastway",
+    "Value": "fastway-au"
+  },
+  {
+    "Key": "Direct Freight快递",
+    "Value": "directfreight-au"
+  },
+  {
+    "Key": "e邮宝",
+    "Value": "epacket"
+  },
+  {
+    "Key": "Buffalo",
+    "Value": "buffaloex"
+  },
+  {
+    "Key": "爱尔兰Fastway",
+    "Value": "fastway-ie"
+  },
+  {
+    "Key": "MRW",
+    "Value": "mrw-spain"
+  },
+  {
+    "Key": "usps-international",
+    "Value": "usps-international"
+  },
+  {
+    "Key": "盛吉泰快递",
+    "Value": "sjtsz"
+  },
+  {
+    "Key": "纳米比亚邮政",
+    "Value": "namibia-post"
+  },
+  {
+    "Key": "DTDC Plus",
+    "Value": "dtdc-plus"
+  },
+  {
+    "Key": "Packlink",
+    "Value": "packlink"
+  },
+  {
+    "Key": "跨越速运",
+    "Value": "kye"
+  },
+  {
+    "Key": "商壹国际快递",
+    "Value": "com1express"
+  },
+  {
+    "Key": "UPU",
+    "Value": "upu"
+  },
+  {
+    "Key": "Arrow XL",
+    "Value": "arrowxl"
+  },
+  {
+    "Key": "I-parcel",
+    "Value": "i-parcel"
+  },
+  {
+    "Key": "Colis Privé",
+    "Value": "colis-prive"
+  },
+  {
+    "Key": "fedex-freight",
+    "Value": "fedex-freight"
+  },
+  {
+    "Key": "Grand Slam Express",
+    "Value": "grandslamexpress"
+  },
+  {
+    "Key": "Bluedart",
+    "Value": "bluedart"
+  },
+  {
+    "Key": "Lasership",
+    "Value": "lasership"
+  },
+  {
+    "Key": "快捷快递",
+    "Value": "kjkd"
+  },
+  {
+    "Key": "俄必达A79",
+    "Value": "china-russia56"
+  },
+  {
+    "Key": "fedex-ground",
+    "Value": "fedex-ground"
+  },
+  {
+    "Key": "新喀里多尼亚邮政",
+    "Value": "new-caledonia-post"
+  },
+  {
+    "Key": "DTDC",
+    "Value": "dtdc"
+  },
+  {
+    "Key": "DMM Network",
+    "Value": "dmm-network"
+  },
+  {
+    "Key": "立邦国际物流",
+    "Value": "lbexps"
+  },
+  {
+    "Key": "尼加拉瓜邮政",
+    "Value": "nicaragua-post"
+  },
+  {
+    "Key": "GoJavas",
+    "Value": "gojavas"
+  },
+  {
+    "Key": "Fetchr",
+    "Value": "fetchr"
+  },
+  {
+    "Key": "波兰FedEx",
+    "Value": "opek"
+  },
+  {
+    "Key": "XDP Express",
+    "Value": "xdp-uk"
+  },
+  {
+    "Key": "平安快递",
+    "Value": "efspost"
+  },
+  {
+    "Key": "香港DHL",
+    "Value": "dhl-hong-kong"
+  },
+  {
+    "Key": "尼日利亚邮政",
+    "Value": "nigeria-post"
+  },
+  {
+    "Key": "First Flight",
+    "Value": "first-flight"
+  },
+  {
+    "Key": "SkyNet国际快递",
+    "Value": "skynetworldwide"
+  },
+  {
+    "Key": "SGT Corriere Espresso",
+    "Value": "sgt-it"
+  },
+  {
+    "Key": "易友通",
+    "Value": "eyoupost"
+  },
+  {
+    "Key": "ups-freight",
+    "Value": "ups-freight"
+  },
+  {
+    "Key": "Gati-KWE",
+    "Value": "gati-kwe"
+  },
+  {
+    "Key": "IMEX Global Solutions",
+    "Value": "imexglobalsolutions"
+  },
+  {
+    "Key": "阿曼邮政",
+    "Value": "oman-post"
+  },
+  {
+    "Key": "KGM Hub",
+    "Value": "kgmhub"
+  },
+  {
+    "Key": "ups-ground",
+    "Value": "ups-ground"
+  },
+  {
+    "Key": "Easy Mail",
+    "Value": "easy-mail"
+  },
+  {
+    "Key": "Qxpress",
+    "Value": "qxpress"
+  },
+  {
+    "Key": "IDEX",
+    "Value": "idexpress"
+  },
+  {
+    "Key": "方递物流",
+    "Value": "fd-express"
+  },
+  {
+    "Key": "ups-mail-innovations",
+    "Value": "ups-mail-innovations"
+  },
+  {
+    "Key": "中乌融盛速递",
+    "Value": "rosan"
+  },
+  {
+    "Key": "RR Donnelley",
+    "Value": "rrdonnelley"
+  },
+  {
+    "Key": "WSGD物流",
+    "Value": "wsgd-logistics"
+  },
+  {
+    "Key": "Parcel Express",
+    "Value": "parcel-express"
+  },
+  {
+    "Key": "Con-way Freight",
+    "Value": "con-way"
+  },
+  {
+    "Key": "Ninja Van",
+    "Value": "ninjavan"
+  },
+  {
+    "Key": "俄顺国际物流",
+    "Value": "zes-express"
+  },
+  {
+    "Key": "SRE Korea",
+    "Value": "srekorea"
+  },
+  {
+    "Key": "Speedex Courier",
+    "Value": "speedexcourier"
+  },
+  {
+    "Key": "海外领地法国 EMS",
+    "Value": "overseas-territory-fr-ems"
+  },
+  {
+    "Key": "Expeditors",
+    "Value": "expeditors"
+  },
+  {
+    "Key": "UTEC瞬移达",
+    "Value": "utec"
+  },
+  {
+    "Value": "auspost"
+  },
+  {
+    "Key": "Yamato宅急便",
+    "Value": "taqbin-jp"
+  },
+  {
+    "Key": "中俄快递SPSR",
+    "Value": "spsr"
+  },
+  {
+    "Key": "Chronopost Portugal",
+    "Value": "chronopost-portugal"
+  },
+  {
+    "Key": "程光快递",
+    "Value": "flywayex"
+  },
+  {
+    "Key": "佳吉物流",
+    "Value": "jiaji"
+  },
+  {
+    "Key": "深港台物流",
+    "Value": "sgtwl"
+  },
+  {
+    "Key": "佐川急便Sagawa",
+    "Value": "sagawa"
+  },
+  {
+    "Key": "XpressBees",
+    "Value": "xpressbees"
+  },
+  {
+    "Key": "迅达速递",
+    "Value": "xdexpress"
+  },
+  {
+    "Key": "ABX Express",
+    "Value": "abxexpress-my"
+  },
+  {
+    "Key": "Courier IT",
+    "Value": "courier-it"
+  },
+  {
+    "Key": "Specialised Freight",
+    "Value": "specialised-freight"
+  },
+  {
+    "Key": "启辰国际物流",
+    "Value": "qichen"
+  },
+  {
+    "Key": "COE",
+    "Value": "coe"
+  },
+  {
+    "Key": "海外领地美国邮政",
+    "Value": "overseas-territory-us-post"
+  },
+  {
+    "Key": "Mypostonline",
+    "Value": "mypostonline"
+  },
+  {
+    "Key": "UPS Mail Innovations",
+    "Value": "ups-mi"
+  },
+  {
+    "Key": "巴基斯坦邮政",
+    "Value": "pakistan-post"
+  },
+  {
+    "Key": "13ten",
+    "Value": "13-ten"
+  },
+  {
+    "Key": "SprintPack",
+    "Value": "sprintpack"
+  },
+  {
+    "Key": "Jam Express",
+    "Value": "jam-express"
+  },
+  {
+    "Key": "DPE South Africa",
+    "Value": "dpe-south-africa"
+  },
+  {
+    "Key": "Dawn Wing",
+    "Value": "dawn-wing"
+  },
+  {
+    "Key": "泰国138快递",
+    "Value": "138sd"
+  },
+  {
+    "Key": "巴拿马邮政",
+    "Value": "correos-panama"
+  },
+  {
+    "Key": "Jayon Express (JEX)",
+    "Value": "jayonexpress"
+  },
+  {
+    "Key": "Fastrak Services",
+    "Value": "fastrak-services"
+  },
+  {
+    "Key": "巴布亚新几内亚邮政",
+    "Value": "postpng"
+  },
+  {
+    "Key": "Nova Poshta",
+    "Value": "nova-poshta"
+  },
+  {
+    "Key": "京华达物流",
+    "Value": "kwt56"
+  },
+  {
+    "Key": "联昊通",
+    "Value": "lhtex"
+  },
+  {
+    "Key": "巴拉圭邮政",
+    "Value": "correo-paraguayo"
+  },
+  {
+    "Key": "RPX Indonesia",
+    "Value": "rpx"
+  },
+  {
+    "Key": "秘鲁邮政",
+    "Value": "serpost"
+  },
+  {
+    "Key": "万邦速达",
+    "Value": "wanbexpress"
+  },
+  {
+    "Key": "菲律宾邮政",
+    "Value": "phlpost"
+  },
+  {
+    "Key": "波兰邮政",
+    "Value": "poczta-polska"
+  },
+  {
+    "Key": "嘉华",
+    "Value": "kawa"
+  },
+  {
+    "Key": "wiseloads快递",
+    "Value": "wiseloads"
+  },
+  {
+    "Key": "快飞鱼",
+    "Value": "kfy"
+  },
+  {
+    "Key": "优速快递",
+    "Value": "uc-express"
+  },
+  {
+    "Key": "wndirect快递",
+    "Value": "wndirect"
+  },
+  {
+    "Key": "卢旺达邮政",
+    "Value": "iposita-rwanda"
+  },
+  {
+    "Key": "Eurodis快递",
+    "Value": "eurodis"
+  },
+  {
+    "Key": "圣卢西亚邮政",
+    "Value": "saint-lucia-post"
+  },
+  {
+    "Key": "Matdespatch快递",
+    "Value": "matdespatch"
+  },
+  {
+    "Key": "圣文森特和格林纳丁斯",
+    "Value": "svgpost"
+  },
+  {
+    "Key": "西萨摩亚邮政",
+    "Value": "samoa-post"
+  },
+  {
+    "Key": "澳大利亚TNT",
+    "Value": "tnt-au"
+  },
+  {
+    "Key": "圣马力诺邮政",
+    "Value": "san-marino-post"
+  },
+  {
+    "Key": "Alljoy",
+    "Value": "alljoy"
+  },
+  {
+    "Key": "yakit快递",
+    "Value": "yakit"
+  },
+  {
+    "Key": "沙特阿拉伯邮政",
+    "Value": "saudi-post"
+  },
+  {
+    "Key": "塞内加尔邮政",
+    "Value": "senegal-post"
+  },
+  {
+    "Key": "世航通运WEL",
+    "Value": "logistics"
+  },
+  {
+    "Key": "塞尔维亚邮政",
+    "Value": "serbia-post"
+  },
+  {
+    "Key": "香港宅急便",
+    "Value": "taqbin-hk"
+  },
+  {
+    "Key": "塞舌尔邮政",
+    "Value": "seychelles-post"
+  },
+  {
+    "Key": "Un-line",
+    "Value": "un-line"
+  },
+  {
+    "Key": "优邦速运",
+    "Value": "ubonex"
+  },
+  {
+    "Key": "北北国际",
+    "Value": "bab-ru"
+  },
+  {
+    "Key": "永利八达通",
+    "Value": "8dt"
+  },
+  {
+    "Key": "斯洛伐克邮政",
+    "Value": "slovakia-post"
+  },
+  {
+    "Key": "CNILINK",
+    "Value": "cnilink"
+  },
+  {
+    "Key": "斯洛文尼亚邮政",
+    "Value": "slovenia-post"
+  },
+  {
+    "Key": "优优速递",
+    "Value": "2uex"
+  },
+  {
+    "Key": "所罗门群岛邮政",
+    "Value": "solomon-post"
+  },
+  {
+    "Key": "HKD",
+    "Value": "hkdexpress"
+  },
+  {
+    "Key": "安能物流",
+    "Value": "ane66"
+  },
+  {
+    "Key": "美国汇达快递",
+    "Value": "huidaex"
+  },
+  {
+    "Key": "美国汉邦快递",
+    "Value": "aplus100"
+  }
+]

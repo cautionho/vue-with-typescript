@@ -1,0 +1,226 @@
+@import './Standard.less';
+@import './Custom.less';
+
+p {
+  word-break: break-word;
+}
+
+/*覆盖样式*/
+.ivu-spin-fix {
+	background: rgba(0, 0, 0, .8);
+}
+
+.ivu-menu-dark {
+	background: @primary-color;
+}
+
+.ivu-menu-horizontal .ivu-menu-submenu .ivu-select-dropdown .ivu-menu-item-selected {
+	color: #515a6e;
+}
+
+.ivu-menu-dark.ivu-menu-horizontal .ivu-menu-item,
+.ivu-menu-dark.ivu-menu-horizontal .ivu-menu-submenu {
+	color: #FFF;
+}
+
+.ivu-menu-item-group-title {
+	padding-left: 16px;
+}
+
+.ivu-menu-drop-list {
+	display: flex;
+	display: -webkit-flex;
+
+	&>.ivu-menu-item-group {
+		display: -webkit-flex;
+		display: flex;
+		flex-direction: column;
+
+		&>.ivu-menu-item {
+			text-align: left;
+		}
+
+	}
+
+}
+
+&.Max-Nav {
+	& .ivu-menu-drop-list {
+		width: 600px;
+		flex-wrap: wrap;
+
+		&>.ivu-menu-item-group {
+			width: 100px;
+			padding-bottom: 12px;
+		}
+
+	}
+
+}
+
+.Container-Tabs .ivu-tabs.ivu-tabs-card>.ivu-tabs-bar .ivu-tabs-tab {
+	border-radius: 0;
+	background: #fff;
+}
+
+.Container-Tabs .ivu-tabs.ivu-tabs-card>.ivu-tabs-bar .ivu-tabs-tab-active {
+	border-top: 1px solid @primary-color;
+}
+
+.Container-Tabs .ivu-tabs.ivu-tabs-card>.ivu-tabs-bar .ivu-tabs-tab-active:before {
+	content: '';
+	display: block;
+	width: 100%;
+	height: 1px;
+	background: @primary-color;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.Container-Tabs .ivu-tabs.ivu-tabs-card>.ivu-tabs-bar {
+	margin-bottom: 10px;
+}
+
+.autoTheme-CustomModel();
+
+// 自定义弹出框样式
+.autoTheme-CustomModel() {
+	.setRenderModalContent() {
+		& .ivu-modal-confirm-head-title {
+			color: #fff;
+			font-size: 18px;
+		}
+
+		& button.ivu-btn-primary {
+			background-color: #fff;
+			border-color: #fff;
+			color: #333;
+		}
+
+		& button.ivu-btn-text {
+			color: #fff;
+		}
+
+	}
+
+	.setRenderModal() {
+		margin-top: 6px;
+		padding-left: 48px;
+		padding-top: 18px;
+
+		& .modal-txt {
+			font-size: 16px;
+			color: #fff;
+		}
+
+		& .ivu-modal-confirm-body-icon {
+			font-size: 40px;
+		}
+
+	}
+
+	.modal-confirm-content {
+		.setRenderModalContent();
+		background-color: @primary-color + 10;
+	}
+
+	.modal-confirm {
+		.setRenderModal();
+
+		& .ivu-modal-confirm-body-icon-confirm {
+			color: @primary-color + 100;
+		}
+
+	}
+
+	.modal-error-content,
+	.modal-warning-content {
+		.setRenderModalContent();
+		background-color: @error-color;
+	}
+
+	.modal-error,
+	.modal-warning {
+		.setRenderModal();
+
+		& .ivu-modal-confirm-body-icon-error,
+		.ivu-modal-confirm-body-icon-warning {
+			color: @modal-warning;
+		}
+
+	}
+
+}
+
+.ivu-input-group-prepend {
+	background: #FFF;
+}
+
+.ivu-input-group-append {
+	background: @primary-color;
+	color: #FFF;
+}
+
+.ivu-form-item-error{
+  & .ivu-input-group-append{
+    background: @primary-color;
+    color: #FFF;
+  }
+}
+
+.ivu-page-item-active,
+.ivu-page-item {
+	&.ivu-page-item-active {
+		background: @primary-color;
+
+		&>a {
+			color: #FFF;
+
+			&:hover {
+				color: #FFF;
+			}
+
+		}
+
+	}
+
+	&:hover {
+		background-color: @primary-color;
+
+		&>a {
+			color: #FFF;
+		}
+
+	}
+
+}
+
+.ivu-modal-wrap {
+  &:not(.Modal-Draggable){
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &>.ivu-modal {
+      top: 0;
+    }
+  }
+
+  &.Modal-Draggable{
+    pointer-events: unset;
+    background-color: rgba(0, 0, 0, .8);
+  }
+
+	& .ivu-modal-confirm-body{
+		&>div{
+			word-break: break-all;
+		}
+	}
+
+}
+
+.ivu-tooltip-inner{
+  word-break: break-word;
+  white-space:unset;
+}

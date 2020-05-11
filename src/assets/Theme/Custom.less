@@ -1,0 +1,520 @@
+/*全局公用样式*/
+
+.P-Required::before {
+	content: '*';
+	display: inline-block;
+	margin-right: 4px;
+	line-height: 1;
+	font-family: SimSun;
+	font-size: 12px;
+	color: #ed3f14;
+	font-weight: 500;
+}
+
+.P-Table-Tip{
+	padding: 0 2px;
+	margin-bottom: 2px;
+	display: inline-block;
+	color: @white;
+	border-radius: 2px;
+	margin-right: 2px;
+
+	+p, +a, +span{
+		word-break: break-all;
+	}
+}
+
+.P-Table-Tip+p, .P-Table-Tip+span,
+
+.P-VA-M{
+	vertical-align: middle;
+}
+
+.P-VA-T{
+	vertical-align: top;
+}
+
+.P-FW-Bold{
+	font-weight: bold;
+}
+
+.P-Inline {
+	display: inline;
+}
+
+.P-Inline-Block {
+	display: inline-block;
+}
+
+.P-Block {
+	display: block;
+}
+
+.P-None{
+	display: none !important;
+}
+
+.P-TA-C {
+	text-align: center;
+}
+
+.P-TA-L {
+	text-align: left;
+}
+
+.P-TA-R {
+	text-align: right;
+}
+
+.P-MT-0{
+  margin-top: 0px !important;
+}
+
+.P-MR-0{
+  margin-right: 0px !important;
+}
+
+.P-MB-0{
+  margin-bottom: 0px !important;
+}
+
+.P-ML-0{
+  margin-left: 0px !important;
+}
+
+.P-MT-5 {
+	margin-top: 5px;
+}
+
+.P-MR-5 {
+	margin-right: 5px;
+}
+
+.P-MB-5 {
+	margin-bottom: 5px !important;
+}
+
+.P-ML-5 {
+	margin-left: 5px;
+}
+
+.P-M-5 {
+	margin: 5px;
+}
+
+.P-MT-10 {
+	margin-top: 10px;
+}
+
+.P-MR-10 {
+	margin-right: 10px !important;
+}
+
+.P-MB-10 {
+	margin-bottom: 10px !important;
+}
+
+.P-ML-10 {
+	margin-left: 10px;
+}
+
+.P-M-10 {
+	margin: 10px;
+}
+
+.P-MT-20 {
+	margin-top: 20px;
+}
+
+.P-MR-20 {
+	margin-right: 20px;
+}
+
+.P-MB-20 {
+	margin-bottom: 20px;
+}
+
+.P-ML-20 {
+	margin-left: 20px;
+}
+
+.P-M-20 {
+	margin: 20px;
+}
+
+.P-MT-30 {
+	margin-top: 30px;
+}
+
+.P-MR-30 {
+	margin-right: 30px;
+}
+
+.P-MB-30 {
+	margin-bottom: 30px;
+}
+
+.P-ML-30 {
+	margin-left: 30px;
+}
+
+.P-M-30 {
+	margin: 30px;
+}
+
+.P-PT-10 {
+	padding-top: 10px;
+}
+
+.P-PR-10 {
+	padding-right: 10px;
+}
+
+.P-PB-10 {
+	padding-bottom: 10px;
+}
+
+.P-PL-10 {
+	padding-left: 20px !important;
+}
+
+.P-PT-20 {
+	padding-top: 20px;
+}
+
+.P-PR-20 {
+	padding-right: 20px;
+}
+
+.P-PB-20 {
+	padding-bottom: 20px;
+}
+
+.P-PL-20 {
+	padding-left: 20px !important;
+}
+
+.P-P-5 {
+  padding: 5px;
+}
+
+.P-P-10 {
+	padding: 10px;
+}
+
+.P-W-90-Percent {
+	width: 90% !important;
+}
+.P-W-100-Percent {
+	width: 100%;
+}
+.P-W-30-Percent {
+	width: 30% ;
+}
+.P-W-49-Percent {
+	width: 48.5%;
+}
+
+.P-W-98-Percent {
+	width: 98%;
+}
+
+.P-W-50-Percent{
+  width:49.8%;
+}
+
+.P-W-100 {
+	width: 100px !important;
+}
+.P-W-150{
+	width: 150px;
+}
+
+.P-W-200 {
+	width: 200px;
+}
+
+.P-W-300 {
+	width: 300px;
+}
+
+.P-W-400 {
+	width: 400px;
+}
+
+.P-W-500 {
+	width: 500px;
+}
+
+.P-W-1000 {
+	width: 1000px;
+}
+
+.P-Text-Info {
+	color: @info-color;
+}
+
+.P-Text-Success {
+	color: @success-color;
+}
+
+.P-Text-Title {
+	color: @title-color
+}
+
+.P-Text-Warning {
+	color: @warning-color;
+}
+
+.P-Text-Error {
+	color: @error-color;
+}
+
+.P-Text-White {
+    color: @white;
+}
+
+.P-FZ-14{
+  font-size: 14px;
+}
+
+.P-FZ-16{
+  font-size: 16px;
+}
+
+.P-FZ-18{
+  font-size: 18px;
+}
+
+.P-FZ-20{
+  font-size: 20px;
+}
+
+.P-Hover-White:hover{
+    color: @white;
+}
+
+.P-BG-Info {
+	background-color: @info-color;
+}
+
+.P-BG-Success {
+	background-color: @success-color;
+}
+
+.P-BG-Warning {
+	background-color: @warning-color;
+}
+
+.P-BG-Error {
+	background-color: @error-color;
+}
+
+.P-BG-Primary {
+	background-color: @primary-color;
+}
+
+.P-Float-Left{
+  float: left;
+}
+
+.P-Float-Right{
+  float: right;
+}
+
+.P-Break-All{
+	word-break: break-all;
+}
+
+.P-Pointer{
+  cursor: pointer !important;
+}
+
+//谷歌hack
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+
+	.P-LINE-3,
+	.P-LINE-3>.ivu-tooltip-rel {
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 3;
+		overflow: hidden;
+		text-align: left;
+		cursor: default;
+	}
+
+	.P-LINE-5,
+	.P-LINE-5>.ivu-tooltip-rel {
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 5;
+		text-align: left;
+		cursor: default;
+	}
+
+	.P-LINE-1,
+	.P-LINE-1>.ivu-tooltip-rel {
+		width: 100%;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+    cursor: default;
+    vertical-align: middle;
+	}
+
+}
+
+//火狐hack
+@-moz-document url-prefix() {
+
+	.P-LINE-3,
+	.P-LINE-5 {
+		position: relative;
+		line-height: 1.4em;
+		height: 4.7em;
+		overflow: hidden;
+		padding: .5em;
+		text-align: left;
+		cursor: default;
+		overflow: hidden;
+	}
+
+	.P-LINE-1 {
+		width: 100%;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		cursor: default;
+		overflow: hidden;
+	}
+
+}
+
+.P-Copy-Content {
+	width: calc(100% - 30px);
+}
+
+.P-Copy-Icon {
+	position: absolute;
+	right: 6px;
+	top: calc((100% - 16px) / 2);
+	cursor: pointer;
+
+	&:hover {
+		color: @info-color;
+	}
+
+}
+
+.P-CustomModal;
+
+.P-CustomModal() {
+	.RenderModalContent() {
+		& .ivu-modal-confirm-head-title {
+			color: #fff;
+			font-size: 18px;
+			font-weight: 700;
+		}
+
+		& .ivu-modal-confirm-head-icon-error,
+		.ivu-modal-confirm-head-icon-warning {
+			color: @modal-warning;
+		}
+
+		& .ivu-modal-confirm-head-icon-confirm {
+			color: @primary-color + 100;
+		}
+
+		& .ivu-modal-confirm-head-icon {
+			font-size: 40px;
+		}
+
+		& button.ivu-btn-primary {
+			background-color: #fff;
+			border-color: #fff;
+			color: #333;
+		}
+
+		& button.ivu-btn-text {
+			color: #fff;
+
+			&:hover,
+			&:active {
+				color: #333;
+			}
+
+		}
+
+	}
+
+	.RenderModal() {
+		& .P-Modal-Txt {
+			font-size: 16px;
+			color: #fff;
+		}
+
+	}
+
+	.P-Modal-confirm-Content {
+		.RenderModalContent();
+		background-color: @primary-color + 10;
+	}
+
+	.P-Modal-confirm {
+		.RenderModal();
+	}
+
+	.P-Modal-error-Content,
+	.P-Modal-warning-Content {
+		.RenderModalContent();
+		background-color: @error-color;
+	}
+
+	.P-Modal-error,
+	.P-Modal-warning {
+		.RenderModal();
+	}
+
+}
+
+.ivu-select-multiple:not(.multipe) > .ivu-select-selection {
+	max-height: 32px;
+	overflow: auto;
+}
+
+.P-List-Img {
+  width: 45px;
+  height: 45px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  cursor: pointer;
+  margin: 4px auto;
+}
+
+.P-Uploader{
+  width: 45px;
+  height: 45px;
+  cursor: pointer;
+  border: 1px dashed #ddd;
+  border-radius: 2px;
+  line-height: 45px;
+  text-align: center;
+}
+
+.P-Uploader-Img{
+  width: 45px;
+  height: 45px;
+  margin-right: 5px;
+  position: relative;
+  cursor: pointer;
+}
+
+.P-Uploader-Del {
+  position: absolute;
+  right: -6px;
+  top: -8px;
+  color: red;
+  background: #fff;
+  border-radius: 50%;
+  cursor: pointer;
+}
